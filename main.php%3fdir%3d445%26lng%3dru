@@ -1,0 +1,408 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Directory of WebTV videos</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="style1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webcam.imm.uran.ru", "http://webtv.uran.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+<SCRIPT language='JScript' src='rmxfrecv.js'></SCRIPT>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+<table bgcolor="#c0c0c0" border="1" width="100%" rules="none">
+  <tr>
+<!--    <td width="20%" valign="middle" align="center">
+      <a href="/vslRu/index.htm" target="_blank"> 
+        <img src="/ru/images/logotype_vsl.gif" alt="logotype_vsl"></a>
+    </td> -->
+    <td width="80%" valign="middle" align="center">
+      <p><font size=2>
+        <b>&copy; Cредства передачи видео через Интернет, примененные на этом сайте, разработаны
+        <br><a href="http://www.vidicor.ru">Научно-производственным центром "Vidicor Ltd."</a>
+        <br>на базе исследований 
+        <a href="/vslRu/index.htm" target="_blank"> 
+        Научно-исследовательского центра мультимедиа технологий</a>
+        <a href="http://www.imm.uran.ru">Института&nbsp;математики&nbsp;и&nbsp;механики</a>
+        <a href="http://www.uran.ru">Уральского&nbsp;отделения</a>
+        <a href="http://www.ras.ru">Российской&nbsp;академии&nbsp;наук</a>
+<!--	<br>Сайт разработан при частичной финансовой поддержке Российского фонда фундаментальных исследований
+	(РФФИ 04-07-96025-р2004урал_в)
+	<br>и региональной целевой программы Правительства Свердловской области
+-->        </b></font> 
+      </p>
+    </td>
+  </tr>
+</table>
+<br><table align="center" bgcolor="#c0c0c0" border="0"
+       cellpadding="3" width="100%" rules="none">
+  <tr>
+
+    <td width="20%" align="center" valign="middle">
+      <a href="http://webTV.uran.ru" target="_blank">
+             <img src="/pictures/wtv100.jpg" width=100></a>
+    </td>
+
+    <td>
+
+    <table align="center" bgcolor="#c0c0c0" border="0"
+           cellpadding="3" width="100%" rules="none">
+
+    <tr>
+    <td width="60%" align="center" valign="middle">
+      <font size="4" color="#2b0079">
+
+        <table align="center" bgcolor="#c0c0c0" border="0"
+               cellpadding="3" width="100%" rules="none">
+
+        <tr>
+        <td width="50%" align="center" valign="middle">
+          <font size="4" color="#2b0079">
+            <b>
+              Научно-исследовательский центр<br>
+              мультимедиа технологий
+            </b>
+          </font>
+        </td>
+
+        <td width="50%" align="center" valign="middle">
+          <font size="4" color="#2b0079">
+            <b>
+              Научно-производственный центр<br>
+              Vidicor Ltd.
+            </b>
+          </font>
+        </td>
+
+        </tr>
+        </table>
+    </td>
+    </tr>
+
+    <tr>
+    <td width="60%" align="center" valign="middle">
+    <hr>
+      <font size="5" color="#2b0079">
+        <b>
+          Интернет-видеоцентр<br>
+        </b>
+      </font>
+    </td>
+    </tr>
+    
+    </table> 
+
+    </td>    
+    
+    <td width="20%" align="center" valign="middle">
+      <a href="http://vidicor.ru" target="_blank">
+             <img src="/pictures/VidicorWS.gif" ></a>
+<!-- <p>
+      <a href="http://vidicom.ru" target="_blank">
+             <img src="/pictures/vidicom.jpg" width=100></a> -->
+    </td>
+
+  </tr>
+</table><br><center>
+<table border=0 width="100%">
+  <tr>
+    <td width="10%" align="center">
+      <a href="index.php"
+        onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','lng/ru/images/home1.gif',1)" onMouseDown="MM_swapImage('home','','lng/ru/images/home3.gif',1)"><img src="lng/ru/images/home2.gif" name="home"  border="0"  alt=""></a>
+<br>
+      <a href="main.php?dir=267&lng=ru"
+              onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('up','','lng/ru/images/up1.gif',1)" onMouseDown="MM_swapImage('up','','lng/ru/images/up3.gif',1)"><img src="lng/ru/images/up2.gif" name="up"  border="0"  alt=""></a>
+&nbsp;    </td>
+    <td>
+<table border=0 width="100%">
+  <tr>
+    <td width="100%" align="center">
+      <a href="http://www.vidicor.ru" target="_blank"
+onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('readMe','','lng/ru/images/readMe1.gif',1)" onMouseDown="MM_swapImage('readMe','','lng/ru/images/readMe3.gif',1)"><img src="lng/ru/images/readMe2.gif" name="readMe"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="/ru/gb.shtml" target="_blank"
+onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('guestbook','','lng/ru/images/guestbook1.gif',1)" onMouseDown="MM_swapImage('guestbook','','lng/ru/images/guestbook3.gif',1)"><img src="lng/ru/images/guestbook2.gif" name="guestbook"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="/ru/webCamRef.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('links','','lng/ru/images/links1.gif',1)" onMouseDown="MM_swapImage('links','','lng/ru/images/links3.gif',1)"><img src="lng/ru/images/links2.gif" name="links"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="/ru/webCamPress.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('massMedia','','lng/ru/images/massMedia1.gif',1)" onMouseDown="MM_swapImage('massMedia','','lng/ru/images/massMedia3.gif',1)"><img src="lng/ru/images/massMedia2.gif" name="massMedia"  border="0"  alt=""></a>
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center">
+      <a href="/ru/VidicomViewer_help.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('helpNew','','lng/ru/images/helpNew1.gif',1)" onMouseDown="MM_swapImage('helpNew','','lng/ru/images/helpNew3.gif',1)"><img src="lng/ru/images/helpNew2.gif" name="helpNew"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="afisha.php?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&Submit=Show" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('announcement','','lng/ru/images/AfishaNew1.gif',1)" onMouseDown="MM_swapImage('announcement','','lng/ru/images/AfishaNew3.gif',1)"><img src="lng/ru/images/AfishaNew2.gif" name="announcement"  border="0"  alt=""></a>
+    </td>
+  </tr>
+
+    <tr>
+    <td align=center valign=middle>
+      <a href="http://vidicor.ru/SatReceiving.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('sputnik','','/ru/images/sputnik1.gif',1)" onMouseDown="MM_swapImage('sputnik','','/ru/images/sputnik3.gif',1)"><img src="/ru/images/sputnik2.gif" name="sputnik"  border="0"  alt=""></a>
+    </td>
+    </tr>
+
+</table>
+    </td>
+    <td width="10%" align="right">
+<form name="form1">
+  <select name="lng" onChange="MM_jumpMenu('parent',this,0)">
+<option value="?dir=445&lng=en" >en</option><option value="?dir=445&lng=ru" selected>ru</option>  </select>
+</form>    </td>
+</table>
+</center>
+<!-- /ru/aboutSystem.htm" --><hr>
+ <h2 align="center">
+        <font color=#2b0079>
+Сеть живых камер и ретрансляций</font>
+</h2>
+<hr>
+
+<div align="center">
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='main.php?dir=259&lng=ru'><img src='pics/webTV.GIF' alt="" border="0" title=""></a><br>
+    <a href="main.php?dir=259&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir0','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir0','','images/open3.gif',1)"><img src="images/open2.gif" name="dir0"  border="0"  alt="Открыть папку"></a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Текущие прямые трансляции <br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='main.php?dir=260&lng=ru'><img src='pics/webCamSmall2.jpg' alt="" border="0" title=""></a><br>
+    <a href="main.php?dir=260&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir1','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir1','','images/open3.gif',1)"><img src="images/open2.gif" name="dir1"  border="0"  alt="Открыть папку"></a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Живые камеры
+НИЦ МТ
+ИММ УрО РАН <br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='main.php?dir=261&lng=ru'><img src='pics/radioStationSmall.jpg' alt="" border="0" title=""></a><br>
+    <a href="main.php?dir=261&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir2','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir2','','images/open3.gif',1)"><img src="images/open2.gif" name="dir2"  border="0"  alt="Открыть папку"></a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Радиостанции<br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='main.php?dir=262&lng=ru'><img src='pics/TVStationsSmall.jpg' alt="" border="0" title=""></a><br>
+    <a href="main.php?dir=262&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir3','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir3','','images/open3.gif',1)"><img src="images/open2.gif" name="dir3"  border="0"  alt="Открыть папку"></a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+ТВ Станции<br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><br><a href="errr.php?dir=445&lng=ru">Сообщить об ошибке
+    </a><br><!--#config timefmt="%d %B %Y"-->
+<hr>
+
+<center>
+
+<table border="0" cellpadding="2" width="100%">
+  <tr>
+    <td width="30%" align="left" valign="top"> 
+      <font color="#800040" size="3">
+      <a href="../vslRu/index.htm" target="_blank">
+      Научно-исследовательский&nbsp;центр&nbsp;мультимедиа технологий</a>
+      <a href="http://www.imm.uran.ru" target="_blank">
+      ИММ</a>&nbsp;<a href="http://www.uran.ru" target="_blank">УрО</a>&nbsp;<a href="http://www.ras.ru" target="_blank">РАН</a>
+      <p>&copy;
+      <a href="http://www.vidicor.ru" target="_blank">
+      Научно-производственный&nbsp;центр "Vidicor&nbsp;Ltd."
+      </a>
+      </font>
+    </td>
+
+    <td width="30%" align="right" valign="top"> 
+      <b>
+      Email: <a href="mailto:webtv@uran.ru">webtv@uran.ru</a>
+      <p>Тел.: (343) 372-0640.
+      <br>Факс: (343) 349-1885,
+      <br>(343) 375-3553.
+      </b> 
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<script language="JavaScript"><!--
+  if (hit)
+  {
+    document.write("<CENTER><TABLE><TR><TD><B>Посетитель: <FONT size=4 color=#000080>");
+    document.write(session);
+    document.write("</FONT></B></TD></TR></TABLE></CENTER>");
+  }
+  //-->
+</script>
+
+<!-- MyCounter -->
+<SCRIPT language="JavaScript"><!--
+var j=0,d=document,s=screen,h='mycounter.com.ua/'
+//--></SCRIPT>
+<SCRIPT language="JavaScript1.1"><!--
+j=1//--></SCRIPT><SCRIPT language="JavaScript1.2"><!--
+j=2//--></SCRIPT><SCRIPT language="JavaScript1.3"><!--
+j=3//--></SCRIPT><SCRIPT language="JavaScript"><!--
+d.cookie="s=1;path=/";d.write('<A href="http://'+h+
+'stats/?id=3303" target=_blank><IMG src="http://get.'+
+h+'counter.php?id=3303&w='+escape(window.location.href)+
+((typeof(s)=='undefined')?'':'&s='+s.width+'x'+s.height+'x'+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+
+(d.referrer?'&r='+escape(d.referrer):'')+
+(d.cookie?'&c=1':'')+'&j='+j+(navigator.javaEnabled()?'&e=1':'')+
+'" alt="MyCounter - Ваш счётчик" border=0 width=88 height=61></A>')
+//--></SCRIPT>
+<NOSCRIPT><A target="_blank"
+href="http://mycounter.com.ua/stats/?id=3303"><IMG
+src="http://get.mycounter.com.ua/counter.php?id=3303" border=0
+width=88 height=61 alt="MyCounter - Ваш счётчик"></A></NOSCRIPT>
+<!-- End MyCounter code -->
+
+<!--#include virtual="/lng/ru/html/mycounter_details.htm"-->
+
+</center>
+<hr>
+
+<!-- SpyLOG f:0211 -->
+<script language="javascript"><!--
+Mu="u5069.17.spylog.com";Md=document;Mnv=navigator;Mp=0;
+Md.cookie="b=b";Mc=0;if(Md.cookie)Mc=1;Mrn=Math.random();
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&c="+Mc+"&t="+Mt;
+if(self!=top){Mfr=1;}else{Mfr=0;}Msl="1.0";
+//--></script><script language="javascript1.1"><!--
+Mpl="";Msl="1.1";Mj = (Mnv.javaEnabled()?"Y":"N");Mz+='&j='+Mj;
+//--></script><script language="javascript1.2"><!-- 
+Msl="1.2";Ms=screen;Mpx=(Mn==0)?Ms.colorDepth:Ms.pixelDepth;
+Mz+="&wh="+Ms.width+'x'+Ms.height+"&px="+Mpx;
+//--></script><script language="javascript1.3"><!--
+Msl="1.3";//--></script><script language="javascript"><!--
+My="";My+="<a href='http://"+Mu+"/cnt?cid=506917&f=3&p="+Mp+"&rn="+Mrn+"' target='_blank'>";
+My+="<img src='http://"+Mu+"/cnt?cid=506917&"+Mz+"&sl="+Msl+"&r="+escape(Md.referrer)+"&fr="+Mfr+"&pg="+escape(window.location.href);
+My+="' border=0 width=88 height=31 alt='SpyLOG'>";
+My+="</a>";Md.write(My);//--></script><noscript>
+<a href="http://u5069.17.spylog.com/cnt?cid=506917&f=3&p=0" target="_blank">
+<img src="http://u5069.17.spylog.com/cnt?cid=506917&p=0" alt='SpyLOG' border='0' width=88 height=31 >
+</a></noscript>
+<!-- SpyLOG -->
+
+<!-- Начало кода счетчика УралWeb -->
+<script language="JavaScript" type="text/javascript">
+<!--
+  uralweb_d=document;
+  uralweb_a='';
+  uralweb_a+='&r='+escape(uralweb_d.referrer);
+  uralweb_js=10;
+//-->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+  uralweb_a+='&j='+navigator.javaEnabled();
+  uralweb_js=11;
+//-->
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+  uralweb_s=screen;
+  uralweb_a+='&s='+uralweb_s.width+'*'+uralweb_s.height;
+  uralweb_a+='&d='+(uralweb_s.colorDepth?uralweb_s.colorDepth:uralweb_s.pixelDepth);
+  uralweb_js=12;
+//-->
+</script>
+<script language="JavaScript1.3" type="text/javascript">
+<!--
+  uralweb_js=13;
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+uralweb_d.write('<a href="http://www.uralweb.ru/rating/go/webTVuran">'+
+'<img border="0" src="http://hc.uralweb.ru/hc/webTVuran?js='+
+uralweb_js+'&amp;rand='+Math.random()+uralweb_a+
+'" width="88" height="31" alt="УралWeb"><'+'/a>');
+//-->
+</script>
+<noscript>
+<a href="http://www.uralweb.ru/rating/go/webTVuran">
+<img border="0" src="http://hc.uralweb.ru/hc/webTVuran?js=0" width="88" height="31" alt="УралWeb"></a>
+</noscript>
+<!-- конец кода счетчика УралWeb --><p align="right">
+<b>Обновлено: 
+17.03.2006</b>
+</div>
+<a href="aindex.php?lng=ru&dir=445">Администрировать</a>
+</body>
+</html>

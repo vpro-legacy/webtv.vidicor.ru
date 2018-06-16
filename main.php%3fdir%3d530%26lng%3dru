@@ -1,0 +1,307 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Directory of WebTV videos</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="style1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webcam.imm.uran.ru", "http://webtv.uran.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+<SCRIPT language='JScript' src='rmxfrecv.js'></SCRIPT>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+
+<!-- убрано лишнее для ИТАР-ТАСС -->
+<hr>
+ <h2 align="center">
+        <font color=#2b0079>
+Государственный демонстрационно-выставочный центр.<br>
+Нижний Тагил, пос.Старатель</font>
+</h2>
+
+<hr>
+
+<div align="center">
+<!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=531&lng=ru'>
+	<img src='pics/rde-logo.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=531&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir0','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir0','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir0"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Международная выставка "Защита и оборона 2003" <br>
+Нижний Тагил <br><br>    </DIV>
+<div align="center">
+<br><span class="style1">08.07.2003</span> - <span class="style1">12.07.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=532&lng=ru'>
+	<img src='pics/magistral1.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=532&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir1','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir1','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir1"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Уральская выставка-ярмарка <br>"Магистраль 2003" <br>
+Нижний Тагил <br>    </DIV>
+<div align="center">
+<br><span class="style1">08.10.2003</span> - <span class="style1">10.10.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=533&lng=ru'>
+	<img src='pics/press-conf.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=533&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir2','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir2','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir2"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Массовая лыжная гонка УрФО в рамках Всероссийских соревнований
+ "Лыжня России 2004" Н.Тагил
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">08.02.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=534&lng=ru'>
+	<img src='pics/1111111111111111111111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=534&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir3','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir3','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir3"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Российская выставка вооружения
+<br> Нижний Тагил <br><br>    </DIV>
+<div align="center">
+<br><span class="style1">06.07.2004</span> - <span class="style1">10.07.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=535&lng=ru'>
+	<img src='pics/11111111111111111111111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=535&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir4','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir4','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir4"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Магистраль-2004 <br>
+Вторая Уральская <br>
+выставка-ярмарка <br>
+железнодорожной техники <br>
+Нижний Тагил <br>    </DIV>
+<div align="center">
+<br><span class="style1">08.09.2004</span> - <span class="style1">10.09.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=537&lng=ru'>
+	<img src='pics/picLRDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=537&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir5','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir5','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir5"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Массовая лыжная <br>
+гонка УрФО в рамках <br>
+Всероссийских соревн. <br>
+"Лыжня России 2005" <br>
+Полигон "Старатель"<br>    </DIV>
+<div align="center">
+<br><span class="style1">13.02.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=540&lng=ru'>
+	<img src='pics/picRDE_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=540&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir6','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir6','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir6"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Междунар. выставка <br>
+технических средств <br>
+обороны и защиты <br>
+"Оборона и защита 2005"<br>
+г.Нижний Тагил <br>    </DIV>
+<div align="center">
+<br><span class="style1">05.07.2005</span> - <span class="style1">09.07.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=544&lng=ru'>
+	<img src='pics/picMag05_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=544&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir7','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir7','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir7"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Магистраль-2005:<br>
+3-я Уральская выставка<br>
+железнодор. транспорта<br>
+и дорожно-строит. техники<br>
+Нижний Тагил, "Старатель"<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">09.09.2005</span> - <span class="style1">10.09.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=547&lng=ru'>
+	<img src='picForArch/0021_LyzhRoss_06/picLR_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=547&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir8','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir8','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir8"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006
+<br><br>
+Полигон "Старатель"
+<br>
+Свердловской области<br>    </DIV>
+<div align="center">
+<br><span class="style1">05.02.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=548&lng=ru'>
+	<img src='/picForArch/0044_Tagil_Expoarms/picRearms_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=548&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir9','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir9','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir9"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+REARMS-2006<br>
+5-я Международная выставка вооружения, военной техники и боеприпасов <br>    </DIV>
+<div align="center">
+<br><span class="style1">11.07.2006</span> - <span class="style1">15.07.2006</span></div>
+        </td>
+  </tr>
+</table><br><a href="errr.php?dir=530&lng=ru">Сообщить об ошибке
+    </a><br></div>
+<a href="aindex.php?lng=ru&dir=530">Администрировать</a>
+</body>
+</html>

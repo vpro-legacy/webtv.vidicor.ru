@@ -1,0 +1,785 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Directory of WebTV videos</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<link href="style1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webcam.imm.uran.ru", "http://webtv.uran.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+<SCRIPT language='JScript' src='rmxfrecv.js'></SCRIPT>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body>
+<table bgcolor="#c0c0c0" border="1" width="100%" rules="none">
+  <tr>
+<!--    <td width="20%" valign="middle" align="center">
+      <a href="/vslRu/index.htm" target="_blank"> 
+        <img src="/ru/images/logotype_vsl.gif" alt="logotype_vsl"></a>
+    </td> -->
+    <td width="80%" valign="middle" align="center">
+      <p><font size=2>
+        <b>&copy; Cредства передачи видео через Интернет, примененные на этом сайте, разработаны
+        <br><a href="http://www.vidicor.ru">Научно-производственным центром "Vidicor Ltd."</a>
+        <br>на базе исследований 
+        <a href="/vslRu/index.htm" target="_blank"> 
+        Научно-исследовательского центра мультимедиа технологий</a>
+        <a href="http://www.imm.uran.ru">Института&nbsp;математики&nbsp;и&nbsp;механики</a>
+        <a href="http://www.uran.ru">Уральского&nbsp;отделения</a>
+        <a href="http://www.ras.ru">Российской&nbsp;академии&nbsp;наук</a>
+<!--	<br>Сайт разработан при частичной финансовой поддержке Российского фонда фундаментальных исследований
+	(РФФИ 04-07-96025-р2004урал_в)
+	<br>и региональной целевой программы Правительства Свердловской области
+-->        </b></font> 
+      </p>
+    </td>
+  </tr>
+</table>
+<br><table align="center" bgcolor="#c0c0c0" border="0"
+       cellpadding="3" width="100%" rules="none">
+  <tr>
+
+    <td width="20%" align="center" valign="middle">
+      <a href="http://webTV.uran.ru" target="_blank">
+             <img src="/pictures/wtv100.jpg" width=100></a>
+    </td>
+
+    <td>
+
+    <table align="center" bgcolor="#c0c0c0" border="0"
+           cellpadding="3" width="100%" rules="none">
+
+    <tr>
+    <td width="60%" align="center" valign="middle">
+      <font size="4" color="#2b0079">
+
+        <table align="center" bgcolor="#c0c0c0" border="0"
+               cellpadding="3" width="100%" rules="none">
+
+        <tr>
+        <td width="50%" align="center" valign="middle">
+          <font size="4" color="#2b0079">
+            <b>
+              Научно-исследовательский центр<br>
+              мультимедиа технологий
+            </b>
+          </font>
+        </td>
+
+        <td width="50%" align="center" valign="middle">
+          <font size="4" color="#2b0079">
+            <b>
+              Научно-производственный центр<br>
+              Vidicor Ltd.
+            </b>
+          </font>
+        </td>
+
+        </tr>
+        </table>
+    </td>
+    </tr>
+
+    <tr>
+    <td width="60%" align="center" valign="middle">
+    <hr>
+      <font size="5" color="#2b0079">
+        <b>
+          Интернет-видеоцентр<br>
+        </b>
+      </font>
+    </td>
+    </tr>
+    
+    </table> 
+
+    </td>    
+    
+    <td width="20%" align="center" valign="middle">
+      <a href="http://vidicor.ru" target="_blank">
+             <img src="/pictures/VidicorWS.gif" ></a>
+<!-- <p>
+      <a href="http://vidicom.ru" target="_blank">
+             <img src="/pictures/vidicom.jpg" width=100></a> -->
+    </td>
+
+  </tr>
+</table><br><center>
+<table border=0 width="100%">
+  <tr>
+    <td width="10%" align="center">
+      <a href="index.php"
+        onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','lng/ru/images/home1.gif',1)" onMouseDown="MM_swapImage('home','','lng/ru/images/home3.gif',1)"><img src="lng/ru/images/home2.gif" name="home"  border="0"  alt=""></a>
+<br>
+      <a href=""
+              onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('up','','lng/ru/images/up1.gif',1)" onMouseDown="MM_swapImage('up','','lng/ru/images/up3.gif',1)"><img src="lng/ru/images/up2.gif" name="up"  border="0"  alt=""></a>
+&nbsp;    </td>
+    <td>
+<table border=0 width="100%">
+  <tr>
+    <td width="100%" align="center">
+      <a href="http://www.vidicor.ru" target="_blank"
+onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('readMe','','lng/ru/images/readMe1.gif',1)" onMouseDown="MM_swapImage('readMe','','lng/ru/images/readMe3.gif',1)"><img src="lng/ru/images/readMe2.gif" name="readMe"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="/ru/gb.shtml" target="_blank"
+onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('guestbook','','lng/ru/images/guestbook1.gif',1)" onMouseDown="MM_swapImage('guestbook','','lng/ru/images/guestbook3.gif',1)"><img src="lng/ru/images/guestbook2.gif" name="guestbook"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="/ru/webCamRef.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('links','','lng/ru/images/links1.gif',1)" onMouseDown="MM_swapImage('links','','lng/ru/images/links3.gif',1)"><img src="lng/ru/images/links2.gif" name="links"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="/ru/webCamPress.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('massMedia','','lng/ru/images/massMedia1.gif',1)" onMouseDown="MM_swapImage('massMedia','','lng/ru/images/massMedia3.gif',1)"><img src="lng/ru/images/massMedia2.gif" name="massMedia"  border="0"  alt=""></a>
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center">
+      <a href="/ru/VidicomViewer_help.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('helpNew','','lng/ru/images/helpNew1.gif',1)" onMouseDown="MM_swapImage('helpNew','','lng/ru/images/helpNew3.gif',1)"><img src="lng/ru/images/helpNew2.gif" name="helpNew"  border="0"  alt=""></a>
+      &nbsp;
+      <a href="afisha.php?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&Submit=Show" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('announcement','','lng/ru/images/AfishaNew1.gif',1)" onMouseDown="MM_swapImage('announcement','','lng/ru/images/AfishaNew3.gif',1)"><img src="lng/ru/images/AfishaNew2.gif" name="announcement"  border="0"  alt=""></a>
+    </td>
+  </tr>
+
+    <tr>
+    <td align=center valign=middle>
+      <a href="http://vidicor.ru/SatReceiving.htm" target="_blank"onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('sputnik','','/ru/images/sputnik1.gif',1)" onMouseDown="MM_swapImage('sputnik','','/ru/images/sputnik3.gif',1)"><img src="/ru/images/sputnik2.gif" name="sputnik"  border="0"  alt=""></a>
+    </td>
+    </tr>
+
+</table>
+    </td>
+    <td width="10%" align="right">
+<form name="form1">
+  <select name="lng" onChange="MM_jumpMenu('parent',this,0)">
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=en" >en</option><option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru" selected>ru</option>  </select>
+</form>    </td>
+</table>
+</center>
+<!-- /ru/aboutSystem.htm" --><hr><h2 align="center">
+    <font color="#2b0079">АФИША</font></h2>
+<hr>
+<center>
+<center>
+<a href="?start=0&finish=10&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><font color=#B00000><tt>1</tt></font></a> <a href="?start=10&finish=20&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>2</tt></a> <a href="?start=20&finish=30&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>3</tt></a> <a href="?start=30&finish=40&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>4</tt></a> <a href="?start=40&finish=50&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>5</tt></a> <a href="?start=50&finish=60&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>6</tt></a> <a href="?start=60&finish=70&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>7</tt></a> <a href="?start=70&finish=80&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>8</tt></a> <a href="?start=80&finish=90&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>9</tt></a> <a href="?start=90&finish=100&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>10</tt></a> <a href="?start=100&finish=110&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>11</tt></a> <a href="?start=110&finish=120&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>12</tt></a> <a href="?start=120&finish=130&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>13</tt></a> <a href="?start=130&finish=140&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>14</tt></a> <a href="?start=140&finish=150&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>15</tt></a> <a href="?start=150&finish=160&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>16</tt></a> <a href="?start=160&finish=170&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>17</tt></a> <a href="?start=170&finish=180&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>18</tt></a> <a href="?start=180&finish=190&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>19</tt></a> <a href="?start=190&finish=200&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>20</tt></a> <a href="?start=200&finish=210&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>21</tt></a> <a href="?start=210&finish=220&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>22</tt></a> <a href="?start=220&finish=230&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>23</tt></a> <a href="?start=230&finish=240&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>24</tt></a> <a href="?start=240&finish=250&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>25</tt></a> <a href="?start=250&finish=260&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>26</tt></a> <a href="?start=260&finish=270&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>27</tt></a> <a href="?start=270&finish=280&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>28</tt></a> <form name="form1" method="get" action="">
+<tt>Показать в диапазоне с    <input name="sd" type="text" id="sd" size="3" value="01">
+/
+<input name="sm" type="text" id="sm" size="3" value="01">
+/
+<input name="sy" type="text" id="sy" size="5" value="2001">
+по    <input name="ed" type="text" id="ed" size="3" value="12">
+/
+<input name="em" type="text" id="em" size="3" value="12">
+/
+<input name="ey" type="text" id="ey" size="5" value="2010">
+  <input type="hidden" name="start" value="0">
+  <input type="hidden" name="finish" value="10">
+  <input type="hidden" name="lng" value="ru">
+<input type="submit" name="Submit" value="Show">
+</tt>
+  </form>
+<form name="form1">
+  <select name="lng" onChange="MM_jumpMenu('parent',this,0)">
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=10" selected>отображать по 10 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=20" >отображать по 20 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=30" >отображать по 30 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=40" >отображать по 40 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=50" >отображать по 50 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=100" >отображать по 100 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=1000000000000" >отображать все </option>
+
+  </select>
+</form>
+</center>
+
+</center>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 278</u></b><br><br></p><p align="center">Понедельник<br>
+<b>25.06.2007</b><br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>C помощью системы "Видикор" офтальмологи провели прямую трансляцию сенсационной операции</b><BR>
+<BR>
+<a href='http://news.ntv.ru/111986/'  target="_blank">
+<img  src="http://webTV.vidicor.ru/pictures/afisha/samara_glaz.jpg"  border=0>
+</a>       <BR>
+(<i>г.Самара, операционная областной глазной больницы им.Ерошевского</i>)
+<hr>
+<font color=#B00000> 
+<strong><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></strong>
+</font>
+</center>
+<hr class="sh"></center><h1>Программа НТВ "Сегодня":</h1>
+<p>
+<div style='color:#AAAAAA'>25.06.2007 | 20:10</div>
+<b>Офтальмологи провели сенсационную операцию</b>
+<br><br>
+Жительница Самарской области Нина Трошина стала здоровым человеком. У нее почти 100-процентное зрение, а еще вчера было минус 13. Утром Нина Александровна испытала на себе действие новых технологий — в областной больнице имени Ерошевского провели операцию-презентацию. За работой профессора Золотарёва — он автор методики — наблюдали десятки офтальмологов из Москвы и дальнего зарубежья.
+<br>
+<br>С подробностями — <b>корреспондент НТВ Михаил Чернов</b>.
+<br>
+<br>Перед операцией Нине Трошиной в очередной раз проверяют зрение. В начале весны медсестре из Новокуйбышевска попали в глаз снежком. После этого зрение стало стремительно ухудшаться. Нина Трошина, пациентка: «Перед глазами пелена, туман. Нормально видящему человеку зрение минус 13 трудно представить. Это как через грязное стекло смотреть на мир».
+<br>
+<br>Ее операция как премьера. Врачи шутят: дают живую хирургию. В зрительном зале светила отечественной и зарубежной офтальмологии. Главный врач глазной больницы имени Ерошевского в режиме онлайн демонстрирует уникальную методику удаления катаракты, помутнение хрусталика. Своеобразную будку киномеханика оборудовали прямо в операционной.
+<br>
+<br>Одна камера снимает общий вид операционной, другую вмонтировали в микроскоп. Это чтобы зрители видели операцию глазами хирурга. Нина Трошина стать звездой согласилась сразу. Операцию ей сделали бесплатно, хотя стоит она 30 тысяч рублей, годовая зарплата медсестры.
+<br>
+<br>Наглядная демонстрация результатов в прямом эфире. Пациентка сама встает с операционного стола и пересаживается в кресло-каталку. Доктор из Индии Урун Кумар на экран так и смотрел с открытым ртом. Урун Кумар, профессор: «Отличный хирург. Я с ним познакомился еще в Америке. И от его методики я в восторге».
+<center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 277</u></b><br><br></p><p align="center">Пятница<br>
+<b>22.06.2007</b><BR><BR>15:00<br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>III Юбилейная Урало-Сибирская научно-промышленная выставка<br>
+Завершение строительного рекорда по строительству 2-этажного дома за 4 дня</b><BR>
+<BR>
+
+<img  src="http://webTV.vidicor.ru/pictures/afisha/snegiri_25_low.jpg"  border=0>
+</a>       <BR>
+(<i>пос. Снегири, Свердлоская обл.</i>)
+<hr>
+<font color=#B00000> 
+<strong><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></strong>
+</font>
+</center>
+<hr class="sh"></center>22 июня завершается ситроительный рекорд по строительству жилого дома в пос. Снегири.
+<br>
+Торжественная приемка готового дома "под ключ" будет транслироваться в Интернет, завершая 4-дневную круглосуточную прямую трансляцию.
+<p>
+Прямую трансляцию осуществлял Научно-производственный центр "Видикор" с помощью собственных инновационных технологий.
+<br>
+Канал связи с места строительства оборудовала компания "Мотив".
+<!--
+<br>
+<center><a href='http://snegiri.vidicor.ru'><FONT size=+2><B>Смотреть прямую трансляцию</B></FONT></a></center>
+--><center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 276</u></b><br><br></p><p align="center">Четверг<br>
+<b>21.06.2007</b><BR><BR>14:00-15:00<br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>Уникальный телемост по проблемам образования соединит Екатеринбург и Челябинск</b><BR>
+<BR>
+<a href='http://www.apiural.ru/econom/?art=33337'  target="_blank">
+<img  src="http://www.apiural.ru/image/photo_arc/1/3147.jpg" width=230 height=172 border=0>
+</a>       <BR>
+(<i>Деловой информациоонно-выставочный центр, Екатеринбург -- Видеостудия Уралсвязьинформ, Челябинск</i>)
+<hr>
+<font color=#B00000> 
+<strong><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></strong>
+</font>
+</center>
+<hr class="sh"></center><a href="http://www.apiural.ru/econom/?art=33337">Информационное агентство "АПИ"</a> сообщает:
+<br>
+Уникальный телемост по проблемам образования между уральской столицей и Челябинском пройдет в Екатеринбургском деловом индустриальном выставочном центре (ДИВЦ) 21 июня,— сообщили АПИ в комитете по аналитической работе и связям со СМИ администрации Екатеринбурга. 
+<p>
+Стоит отметить, что телемост будет организован в рамках III Урало-Сибирской научно-промышленной выставки. Как отмечают в комитете, Екатеринбург и Челябинск в последнее время столкнулись с рядом проблем в области образования: это и финансирование в рамках национального проекта, и введение Единого государственного экзамена, и проблемы обеспечения образовательных учреждений лицензионным софтом. Специалисты сферы образования Свердловской и Челябинской областей предпримут попытку в ходе телемоста найти решение этим проблемам. 
+<p>
+Стоит отметить, что значительная часть телемоста будет организована в формате свободного микрофона, что должно обеспечить динамику и напряженность дебатов. Как отмечают в комитете, ожидается, что решения, которые будут сформулированы в ходе телемоста, будут иметь общероссийское значение. 
+<hr>
+Участники отметили высочайшее качество интернет-видеомоста, который действительно можно называть телемостом, осуществленного с помощью технологий, разработанных уральскими математиками в НПЦ "Видикор". 
+<br>Канал интернет-связи обеспечивался ОАО "Связьинформ".<center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 275</u></b><br><br></p><p align="center">Среда<br>
+<b>20.06.2007</b><BR><BR>15:00-16:00<br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>В библиотеках Екатеринбурга пройдет видеоконференция</b><BR>
+<BR>
+
+<img  src="http://www.justmedia.ru/images/news/27661_2.jpg"  border=0>
+</a>       <BR>
+(<i>Екатеринбург, МУБ, библиотеки Главы города, УрГУ и др.</i>)
+<hr>
+<font color=#B00000> 
+<strong><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></strong>
+</font>
+</center>
+<hr class="sh"></center>ИА "Апельсин", 14.06.2007 16:10. В среду, 20 июня, библиотеки Екатеринбурга будут работать в особом режиме. В этот день Муниципальное объединение библиотек впервые организует Интернет-видеоконференцию «Библиотеки в режиме on-line».
+<p>
+Интернет-видеоконференция выбрана в качестве одной из наиболее эффективных форм современных коммуникативных акций, позволяющих привлечь к обсуждению определенной темы большую аудиторию. 
+За последние три года в жизни муниципальных библиотек произошли немалые изменения. Так, с 2004 года в Екатеринбурге реализуется проект «Библиотека XXI века». И сегодня уже 23 библиотеки с полным правом могут быть названы электронными. 
+<p>
+В прошлом остались каталожные ящики – им на смену пришли электронные каталоги. К услугам пользователей – ресурсы интернет и новые электронные сервисы, а современные библиотечные фонды включают в себя не только книги, но и CD, DVD. О том, чем сегодня библиотеки могут быть полезны городу и горожанам, пойдет речь на Интернет-видеоконференции «Библиотеки в режиме on-line». 
+В ней примут участие руководители Горадминистрации, специалисты крупнейших библиотек Екатеринбурга, гости. Кроме того, каждый екатеринбуржец может стать участником видеоконференции и получить более подробную информацию о новых услугах.<center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 274</u></b><br><br></p><p align="center">Вторник<br>
+<b>19.06.2007</b><BR><BR>10:00-16:00<br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>III Юбилейная Урало-Сибирская научно-промышленная выставка<br>
+Прямая 4-дневная круглосуточная трансляция строительства дома за 4 дня</b><BR>
+<BR>
+<a href='http://snegiri.vidicor.ru'  target="_blank">
+<img  src="/pictures/AFISHA/motiv2sm.jpg" width=352 height=286 border=0>
+</a>       <BR>
+(<i>г.Екатеринбург, пос. Снегири</i>)
+<hr>
+<font color=#B00000> 
+<strong><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></strong>
+</font>
+</center>
+<hr class="sh"></center>III юбилейная Урало-Сибирская научно-практическая выставка приурочена к 75-летию Уральского отделения Российской академии наук и призвана совместить практический показ достижений науки и техники с праздничными мероприятиями, посвященными юбилею академии.
+<br>
+Новшество третьей выставки, по сравнению с выставкой 2003 года, заключается в презентации поселка «Галактика» на втором километре Чусовского тракта. На его территории в настоящее время 34 строительные компании возводят индивидуальные жилые дома (каждая организация строит по одному объекту). На выделенном им участке возводятся коттеджи самой оригинальной архитектуры с применением практически всех строительных технологий, существующих на рынке. Наряду с традиционными кирпичными домами в «Галактике» возводятся коттеджи из монолита, клееного бруса, тепло-эффективных блоков, каркасно-щитовые здания. Современные технологии позволяют построить дом за очень короткий промежуток времени. 
+<p>
+На выставке одна из фирм (корпорация "РАЙ") будет производить строительство дома за 4 дня.
+<p>Круглосуточная 4-х-дневная прямая трансляция строительного рекорда осуществляется разработанной на Урале системой "Видикор" (http://VidicoR.ru).
+<!--
+<br>
+<center><a href='http://snegiri.vidicor.ru'><FONT size=+2><B>Смотреть прямую трансляцию</B></FONT></a></center>
+--><center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 273</u></b><br><br></p><p align="center">Пятница<br>
+<b>01.06.2007</b><BR><BR>18:00-19:30<br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>Телемост Самара--Оренбург "Время жить!" </b><BR>
+<BR>
+
+<img  src="http://newsimg.bbc.co.uk/media/images/41631000/jpg/_41631776_pozner203.jpg"  border=0>
+</a>       <BR>
+(<i>Телекомпании "СКАТ", "РИО" (г.Самара) и "Орен-ТВ" (г.Оренбург)</i>)
+<hr class="sh"></center>1 июня 2007 г. с помощью <a href=http://vidicor.ru>системы интернет-видеосвязи, разработанной и выпускаемой уральским научно-производственным центром «Видикор»</a>, был проведен телемост, объединивший Самару и Оренбург.
+<hr>
+Как сообщил Алексей Клименков, использовавшееся для проведения данного телемоста оборудование «Видикор», приобретенное компанией «Скат» полгода назад и все это время активно используемое для проведения телепередач с многосторонними телемостами, работало отлично и обеспечило беспроблемную высококачественную видеосвязь.
+<hr>
+Телемост был посвящен проблемам детей, лишенных шанса на нормальную жизнь из-за диагноза – ВИЧ или СПИД. Чтобы провести эту программу, в Самару приехал Владимир Познер. Для него это уже 24-е ток-шоу в рамках телемарафона «Время жить!». Цель проекта – изменить отношение общества к носителям вируса. 
+<p>
+<u>Владимир Познер:</u>
+<br>
+«Они боятся нас с вами, что мы не пустим их детей со своими в детский сад, школы... То, что такого не будет, никого не убеждает.  Нужно менять отношение в обществе – я не вижу другого пути. За последние 5-6 лет произошел некий сдвиг. Но я бы не стал обольщаться».
+<hr>
+<a href=«http://www.orentv.ru/?url=4&id=13&data=2007-05-26»>Комментарии из телепередачи «Итоги новостей Орен-ТВ»</a>:
+<p>
+<u>Ведущий:</u> Телемост «Оренбург – Самара» организован  в рамках проекта «Время жить». Руководит проектом Владимир Познер. В течение полутора часов специалисты разных профилей будут обсуждать  тему борьбы со СПИДом. Связь <b>посредством новых технологий</b> будет установлена между студиями телекомпании «Орен-ТВ» и самарской телекомпании «РИО».  Подготовка – в самом разгаре.
+<br>
+«Время жить» – значимый социальный проект на тему, которая остается актуальной последние десять-пятнадцать лет не только в России. С 2004 года телемарафоны прошли в 23 регионах страны. Два из них – <b>телемосты</b> между городами. Третий телемост состоится 1 июня – в день защиты детей.
+<br>
+Телемост – этот способ общения на дальних расстояниях – в регионах используется не часто. В Оренбуржье впервые телемост состоялся в 1968 году.  Юрий Карасевич, который в то время работал на государственной телерадиокомпании, хорошо помнит эфиры, организованные столичными мэтрами.
+<p>
+<u>Юрий Карасевич, руководитель лаборатории электронных СМИ ОГУ, заслуженный работник культуры РФ:</u>
+<br>
+«Та программа под названием «Музыкальный турнир» длилась час, а не  подготовку ушло не меньше месяца. С тех пор в Оренбуржье проводили телемосты, но это довольно затратное мероприятие – и финансово, и организационно». «Телемосты возникают и пропадают. Во-первых сложно найти тему, которая всех объединит, во-вторых это очень дорого».
+<p>
+<u>Аркадий Пронин, главный редактор телекомпании «Орен-ТВ»:</u>
+<br>
+«То, что нас пригласили еще раз участвовать в этом проекте, это очень приятно. И уважительно, потому что мы уже давно искали партнера. Телекомпания Орен-ТВ вошла в четверку лучших по России. И не без причины. Два года назад удачно провели марафон в студии в рамках этого социально значимого проекта».
+<p>
+Последние дни – самые насыщенные в подготовке эфира. В Самаре в подготовке  телемоста будут участвовать две телекомпании – «РИО» и «Скат».
+90 минут  прямого эфира в двух регионах без технических погрешностей – такая   задача ставится  на каждом из телеканалов-участников. 
+<p>
+<u>Александр Чусовитин, технический директор телекомпании «Орен-ТВ»:</u>
+<br>
+«Сейчас устанавливается связь. Картинку из Оренбурга мы будем подавать в Самару, а Самара нам наоборот, а ведь зрителю мы будем одинаково две сразу показывать. В этом  нам немного сложно». 
+<p>
+<u>Алексей Клименков, исполнительный директор телерадиокомпании «Скат» г. Самара:</u>
+<br>
+«Мы забудем про то, что мы конкуренты и по новостям и по другим аспектам и будем делать очень важное дело». «Фактически мы будем использовать цифровое вещание. Традиционно телемосты строились аналоговым способом, но он очень затратный; а тот метод, который мы будем использовать, региональным телекомпаниям вполне по силам».
+
+<center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%"  align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 272</u></b><br><br></p>
+<p align="center">Пятница<br>
+<b>18.05.2007</b><BR><BR>17:00-18:30<br><br>
+<br>
+<br>
+     </p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1" valign="middle" class="sh">
+    <center>
+<b>Торжественное открытие Командного чемпионата мира по шахматам среди женщин </b><BR>
+<BR>
+<a href='www.chesswomen.ru'  target="_blank"><img  src="http://www.midural.ru/midural-new/exposition/1.gif.gif"  border=0>
+</a>         <BR>
+(<i>г.Екатеринбург, Уральский государственный Театр эстрады</i>)
+
+<hr><font color=#B00000> <strong>
+<a href="http://current.vidicor.ru"><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></a>
+
+
+</strong> </font>
+</center>
+<hr>
+</center>В церемонии примут участие: губернатор Свердловской области Эдуард Россель, президент FIDE Кирсан Илюмжинов, первый вице-президент Российской шахматной федерации Аркадий Дворкович, главный судья чемпионата - генеральный секретарь ФИДЕ Игнатиус Леонг (Сингапур). 
+<p>
+Помимо приветствий официальных лиц, концертной программы-шоу и жеребьевки, которая также будет представлять собой театрализованное действо, зрителей ожидают незабываемые зрелищные сюрпризы.
+<p>
+Церемония открытия будет транслироваться через глобальную сеть Internet, где все желающие смогут наблюдать историческое событие в режиме он-лайн на официальном сайте чемпионата: <a href="http://www.chesswomen.ru">www.chesswomen.ru</a> и на сайте компании Vidicor <a href="http://chess.vidicor.ru">chess.vidicor.ru</a>.
+
+<p>
+
+"За чемпионатом мира по шахматам смогут наблюдать тысячи зрителей<br>
+Тысячи любителей шахмат смогут наблюдать по Интернету за первым командным чемпионатом мира по шахматам игры среди женщин, который начнется 19 мая в Екатеринбурге. Как сообщили Накануне.RU в департаменте информационной политики губернатора Свердловской области, на чемпионате будут представлены десять стран со всех континентов - России, Армении, Вьетнама, Голландии, Грузии, Китая, Кубы, Польши, Украины и ЮАР. Напомним, чемпионат завершится 30 мая. В рамках проведения чемпионата мира предлагается заложить первый камень в основание Академии шахмат, которая расположится в столице Среднего Урала. Александра Качалова"
+<p> 
+ - Накануне.ru - 25 апреля 2007 г. - 12:04  
+<center>
+</td>
+</table>
+</td></tr>
+</table><br><table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 271</u></b><br><br></p><p align="center">Пятница<br>
+<b>27.04.2007</b><BR><BR>16:00-17:00<br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>Итоги деятельности компании «ЕвразХолдинг» в 2006 году
+<br>Интерактивная пресс-конференция в режиме телемоста «Москва – Екатеринбург – Новокузнецк»</b><BR>
+<BR>
+<BR>
+(<i>Москва – Екатеринбург – Новокузнецк</i>)
+<hr class="sh"></center>На пресс-конференции в режиме телемоста «Москва – Екатеринбург – Новокузнецк» по результатам деятельности «Евраза» за 2006 год руководители Евраза президент ООО Александр Фролов и старший вице-президент «ЕвразХолдинг» Павел Татьянин сообщили, что компания планирует снижать свой долг. 
+<p>
+Финансовый директор «Евраза» Павел Татьянин сообщил, что долг компании достиг 5 млрд. долларов, при этом его обслуживание оценивается в сумму 400 млн. долларов. Как пояснил Татьянин, долг, конечно большой, но компания предполагает сократить его. Тем более что если рассмотреть соотношение EBITDA (чистая нераспределенная прибыль до всех вычетов) к долгу, то соотношение окажется таким же, каким было раньше. «Соотношение в 1,5 раза – это устойчивое соотношение», –- пояснил Татьянин. 
+<p>
+Акционеры Евраза довольны деятельностью компании. «Наша компания показывает рост очень хороший для сектора. За время, прошедшее с IPO, акции выросли более чем в 2 раза», – сообщил финансовый директор.<center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 270</u></b><br><br></p><p align="center">Суббота<br>
+<b>21.04.2007</b><br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>XIX Всероссийская олимпиада школьников по информатике:
+<br>заключительный этап</b><BR>
+<BR>
+<a href='http://info.rusolymp.ru/default.asp?trID=2887'  target="_blank">
+<img  src="http://info.rusolymp.ru/images/informatics/LOGO_07_108x150.gif"  border=0>
+</a>       <BR>
+(<i>г.Челябинск, ЮУрГУ</i>)
+<hr>
+<font color=#B00000> 
+<strong><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></strong>
+</font>
+</center>
+<hr class="sh"></center>В 2007г. Всероссийская олимпиада школьников по информатике проходит в 19-й раз.
+<br>Почти во всех этих олимпиадах в жюри работал Владимир Валентинович Прохоров -- руководитель научно-производственного центра мультимедиа технологий ИММ УрО РАН, генеральный директор НПЦ "Видикор". На многих олимпиадах в олимпиадное задание входили придуманные им задачи, которые многие знают до сих пор.
+
+<p>В этом году В.В.Прохоров -- вновь член жюри. Кроме того НПЦ "Видикор", как и в прошлом году, стал спонсором олимпиады и проводит интернет-видеоляцию с олимпиады.
+<br>Ведется круглосуточная трансляция из зала, где работают участники. Предполагается транслировать и процедуру торжественного закрытия олимпиады и награждения победителей.<center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<table border=0 cellspacing=5 cellpadding=2 width=95% class=recitem align="center">
+<tr style='page-break-inside:avoid'><td bgcolor=#B3B4C1>
+<table width="100%" height="100%" align="center" border=1 cellpadding=0 cellspacing=0 bordercolor="#000000">
+  <tr>   <td width="100"  bgcolor="#B3B4C1" vAlign="top"><p ><b><u>No 269</u></b><br><br></p><p align="center">Среда<br>
+<b>18.04.2007</b><BR><BR>14:00-15:00<br><br>
+</p>
+</td>
+    <td width="100%" bgcolor="#B3B4C1"  valign="middle" class="sh">
+    <center>
+<b>Брифинг по итогам 11-го Российского Интернет Форума (РИФ–2007) на тему:
+<br>«Что угрожает российскому интернету?». 
+</b><BR>
+<BR>
+<a href='http://consulting.itar-tass.com/text?type=events&id=28'  target="_blank">
+<img  src="http://webtv.vidicor.ru/picforarch/tass-rif.jpg" width=370 height=400 border=0>
+</a>       <BR>
+(<i>г.Москва, пресс-центр ИТАР-ТАСС</i>)
+<hr>
+<font color=#B00000> 
+<strong><table><tr><td bgcolor="#ffeeff">&nbsp;<a href="http://current.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://current1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp; &nbsp;<a href="http://live1.vidicor.ru">Прямая&nbsp;трансляция</a>&nbsp;</td></tr></table></strong>
+</font>
+</center>
+<hr class="sh"></center>В последнее время развитие ИКТ затрагивает все сегменты общества: частный сектор, бизнес, государственный сектор, социальную сферу, культуру и образование. За прошедший год государство предприняло ряд масштабных и успешных шагов по развитию отечественного сегмента сети Интернет. Однако вместе с тем в ходе мероприятий РИФ–2007 выявлен ряд сложных и неоднозначных вопросов развития Рунета, а также ряд острых проблем, требующих неотложного решения и угрожающих его дальнейшему развитию. 
+<p>
+По итогам работы Форума принято Обращение (Резолюция) участников РИФ–2007 к интернет-сообществу. В Резолюции представлены основные проблемы, которые, по мнению участников Форума, мешают дальнейшему развитию интернет-отрасли, а также предложен ряд конкретных шагов, направленных на улучшение ситуации и предотвращение возможных негативных последствий. 
+<p>
+Так, предлагается предпринять ряд неотложных мер по изменению российского законодательства в IT-сфере; привлечь интернет-сообщество к оценке эффективности и целесообразности создания любых новых законов и подзаконных актов, регулирующих и регламентирующих развитие Рунет и находящихся в настоящий момент в разработке в министерствах и ведомствах; принять ряд срочных мер по изменению ситуации с налогообложением рынка интернет-рекламы и интернет-продаж; переработать существующие подходы по подготовке кадров в области информационных технологий и т.д. <center>
+</td>
+</table>
+</td>
+</tr>
+</table>
+<br>
+<center>
+<center>
+<a href="?start=0&finish=10&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><font color=#B00000><tt>1</tt></font></a> <a href="?start=10&finish=20&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>2</tt></a> <a href="?start=20&finish=30&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>3</tt></a> <a href="?start=30&finish=40&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>4</tt></a> <a href="?start=40&finish=50&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>5</tt></a> <a href="?start=50&finish=60&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>6</tt></a> <a href="?start=60&finish=70&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>7</tt></a> <a href="?start=70&finish=80&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>8</tt></a> <a href="?start=80&finish=90&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>9</tt></a> <a href="?start=90&finish=100&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>10</tt></a> <a href="?start=100&finish=110&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>11</tt></a> <a href="?start=110&finish=120&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>12</tt></a> <a href="?start=120&finish=130&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>13</tt></a> <a href="?start=130&finish=140&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>14</tt></a> <a href="?start=140&finish=150&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>15</tt></a> <a href="?start=150&finish=160&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>16</tt></a> <a href="?start=160&finish=170&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>17</tt></a> <a href="?start=170&finish=180&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>18</tt></a> <a href="?start=180&finish=190&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>19</tt></a> <a href="?start=190&finish=200&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>20</tt></a> <a href="?start=200&finish=210&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>21</tt></a> <a href="?start=210&finish=220&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>22</tt></a> <a href="?start=220&finish=230&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>23</tt></a> <a href="?start=230&finish=240&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>24</tt></a> <a href="?start=240&finish=250&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>25</tt></a> <a href="?start=250&finish=260&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>26</tt></a> <a href="?start=260&finish=270&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>27</tt></a> <a href="?start=270&finish=280&lng=ru&sd=01&sm=01&sy=2001&em=12&ed=12&ey=2010"><tt>28</tt></a> <form name="form1" method="get" action="">
+<tt>Показать в диапазоне с    <input name="sd" type="text" id="sd" size="3" value="01">
+/
+<input name="sm" type="text" id="sm" size="3" value="01">
+/
+<input name="sy" type="text" id="sy" size="5" value="2001">
+по    <input name="ed" type="text" id="ed" size="3" value="12">
+/
+<input name="em" type="text" id="em" size="3" value="12">
+/
+<input name="ey" type="text" id="ey" size="5" value="2010">
+  <input type="hidden" name="start" value="0">
+  <input type="hidden" name="finish" value="10">
+  <input type="hidden" name="lng" value="ru">
+<input type="submit" name="Submit" value="Show">
+</tt>
+  </form>
+<form name="form1">
+  <select name="lng" onChange="MM_jumpMenu('parent',this,0)">
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=10" selected>отображать по 10 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=20" >отображать по 20 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=30" >отображать по 30 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=40" >отображать по 40 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=50" >отображать по 50 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=100" >отображать по 100 </option>
+<option value="?sd=01&sm=01&sy=2001&ed=12&em=12&ey=2010&start=0&finish=10&lng=ru&start=0&finish=1000000000000" >отображать все </option>
+
+  </select>
+</form>
+</center>
+
+</center>
+<!--#config timefmt="%d %B %Y"-->
+<hr>
+
+<center>
+
+<table border="0" cellpadding="2" width="100%">
+  <tr>
+    <td width="30%" align="left" valign="top"> 
+      <font color="#800040" size="3">
+      <a href="../vslRu/index.htm" target="_blank">
+      Научно-исследовательский&nbsp;центр&nbsp;мультимедиа технологий</a>
+      <a href="http://www.imm.uran.ru" target="_blank">
+      ИММ</a>&nbsp;<a href="http://www.uran.ru" target="_blank">УрО</a>&nbsp;<a href="http://www.ras.ru" target="_blank">РАН</a>
+      <p>&copy;
+      <a href="http://www.vidicor.ru" target="_blank">
+      Научно-производственный&nbsp;центр "Vidicor&nbsp;Ltd."
+      </a>
+      </font>
+    </td>
+
+    <td width="30%" align="right" valign="top"> 
+      <b>
+      Email: <a href="mailto:webtv@uran.ru">webtv@uran.ru</a>
+      <p>Тел.: (343) 372-0640.
+      <br>Факс: (343) 349-1885,
+      <br>(343) 375-3553.
+      </b> 
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<script language="JavaScript"><!--
+  if (hit)
+  {
+    document.write("<CENTER><TABLE><TR><TD><B>Посетитель: <FONT size=4 color=#000080>");
+    document.write(session);
+    document.write("</FONT></B></TD></TR></TABLE></CENTER>");
+  }
+  //-->
+</script>
+
+<!-- MyCounter -->
+<SCRIPT language="JavaScript"><!--
+var j=0,d=document,s=screen,h='mycounter.com.ua/'
+//--></SCRIPT>
+<SCRIPT language="JavaScript1.1"><!--
+j=1//--></SCRIPT><SCRIPT language="JavaScript1.2"><!--
+j=2//--></SCRIPT><SCRIPT language="JavaScript1.3"><!--
+j=3//--></SCRIPT><SCRIPT language="JavaScript"><!--
+d.cookie="s=1;path=/";d.write('<A href="http://'+h+
+'stats/?id=3303" target=_blank><IMG src="http://get.'+
+h+'counter.php?id=3303&w='+escape(window.location.href)+
+((typeof(s)=='undefined')?'':'&s='+s.width+'x'+s.height+'x'+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+
+(d.referrer?'&r='+escape(d.referrer):'')+
+(d.cookie?'&c=1':'')+'&j='+j+(navigator.javaEnabled()?'&e=1':'')+
+'" alt="MyCounter - Ваш счётчик" border=0 width=88 height=61></A>')
+//--></SCRIPT>
+<NOSCRIPT><A target="_blank"
+href="http://mycounter.com.ua/stats/?id=3303"><IMG
+src="http://get.mycounter.com.ua/counter.php?id=3303" border=0
+width=88 height=61 alt="MyCounter - Ваш счётчик"></A></NOSCRIPT>
+<!-- End MyCounter code -->
+
+<!--#include virtual="/lng/ru/html/mycounter_details.htm"-->
+
+</center>
+<hr>
+
+<!-- SpyLOG f:0211 -->
+<script language="javascript"><!--
+Mu="u5069.17.spylog.com";Md=document;Mnv=navigator;Mp=0;
+Md.cookie="b=b";Mc=0;if(Md.cookie)Mc=1;Mrn=Math.random();
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&c="+Mc+"&t="+Mt;
+if(self!=top){Mfr=1;}else{Mfr=0;}Msl="1.0";
+//--></script><script language="javascript1.1"><!--
+Mpl="";Msl="1.1";Mj = (Mnv.javaEnabled()?"Y":"N");Mz+='&j='+Mj;
+//--></script><script language="javascript1.2"><!-- 
+Msl="1.2";Ms=screen;Mpx=(Mn==0)?Ms.colorDepth:Ms.pixelDepth;
+Mz+="&wh="+Ms.width+'x'+Ms.height+"&px="+Mpx;
+//--></script><script language="javascript1.3"><!--
+Msl="1.3";//--></script><script language="javascript"><!--
+My="";My+="<a href='http://"+Mu+"/cnt?cid=506917&f=3&p="+Mp+"&rn="+Mrn+"' target='_blank'>";
+My+="<img src='http://"+Mu+"/cnt?cid=506917&"+Mz+"&sl="+Msl+"&r="+escape(Md.referrer)+"&fr="+Mfr+"&pg="+escape(window.location.href);
+My+="' border=0 width=88 height=31 alt='SpyLOG'>";
+My+="</a>";Md.write(My);//--></script><noscript>
+<a href="http://u5069.17.spylog.com/cnt?cid=506917&f=3&p=0" target="_blank">
+<img src="http://u5069.17.spylog.com/cnt?cid=506917&p=0" alt='SpyLOG' border='0' width=88 height=31 >
+</a></noscript>
+<!-- SpyLOG -->
+
+<!-- Начало кода счетчика УралWeb -->
+<script language="JavaScript" type="text/javascript">
+<!--
+  uralweb_d=document;
+  uralweb_a='';
+  uralweb_a+='&r='+escape(uralweb_d.referrer);
+  uralweb_js=10;
+//-->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!--
+  uralweb_a+='&j='+navigator.javaEnabled();
+  uralweb_js=11;
+//-->
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+  uralweb_s=screen;
+  uralweb_a+='&s='+uralweb_s.width+'*'+uralweb_s.height;
+  uralweb_a+='&d='+(uralweb_s.colorDepth?uralweb_s.colorDepth:uralweb_s.pixelDepth);
+  uralweb_js=12;
+//-->
+</script>
+<script language="JavaScript1.3" type="text/javascript">
+<!--
+  uralweb_js=13;
+//-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--
+uralweb_d.write('<a href="http://www.uralweb.ru/rating/go/webTVuran">'+
+'<img border="0" src="http://hc.uralweb.ru/hc/webTVuran?js='+
+uralweb_js+'&amp;rand='+Math.random()+uralweb_a+
+'" width="88" height="31" alt="УралWeb"><'+'/a>');
+//-->
+</script>
+<noscript>
+<a href="http://www.uralweb.ru/rating/go/webTVuran">
+<img border="0" src="http://hc.uralweb.ru/hc/webTVuran?js=0" width="88" height="31" alt="УралWeb"></a>
+</noscript>
+<!-- конец кода счетчика УралWeb -->  <a href="aafisha.php?sd=01&sm=01&sy=2001&ed=01&em=12&ey=2010&start=0&finish=10&lng=ru">Администрировать</a> <p align="right">
+<b>Обновлено: 
+21.12.2006</b>
+
+</body>
+</html>

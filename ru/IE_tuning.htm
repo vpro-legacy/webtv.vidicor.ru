@@ -1,0 +1,93 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<title>Настройка MS Internet Explorer для просмотра видео</title>
+
+</head>
+
+<body lang=RU>
+
+<hr>
+<h1>Настройка MS Internet Explorer</h1>
+
+<p>При просмотре через веб-страницу как через двусторонний канал, так и через односторонний, 
+в настройках безопасности <b>MS Internet Explorer</b> должны быть разрешены:</p>
+
+<p>&nbsp;&nbsp;&nbsp;—&nbsp;работа сценариев JavaScript,
+<br>&nbsp;&nbsp;&nbsp;—&nbsp;запуск ActiveX-компонентов сторонних производителей.</p>
+
+<p>Для разрешения работы сценариев JavaScript и запуска ActiveX компонентов
+сторонних производителей следует войти в меню <b>MS Internet Explorer</b>:</p>
+
+<p><center><b><i>"Tools"</i></b>&#8594;<b><i>"Internet Options"</i></b>&#8594;<b><i>"Security"</i></b>&#8594;<b><i>"Internet"</i></b></center></p>
+
+<p>(В русскоязычной версии <b>MS Internet Explorer</b>:</p>
+
+<p><center><b><i>"Сервис"</i></b>&#8594;<b><i>"Свойства обозревателя"</i></b>&#8594;<b><i>"Безопасность"</i></b>&#8594;<b><i>"Зона Интернета"</i></b>)</center></p>
+
+<p><center><img width=675 height=330 src="IE_tuning.files/image001.jpg"></center></p>
+
+<p><center><img width=402 height=457 src="IE_tuning.files/image002.jpg"></center></p>
+
+<p>Следует нажать кнопку <b><i>"Default Level"</i></b> (<b><i>"По умолчанию"</i></b>)
+и затем с помощью бегунка выставить уровень безопасности в <b><i>"Medium"</i></b> (<b><i>"Средний"</i></b>).</p>
+
+<p>Затем, нажав "<b><i>Custom Level"</i></b> (<b><i>"Другой"</i></b>), установить следующие настройки:</p>
+
+<div align=center>
+<table border=0 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse'>
+ <tr>
+  <td style='border:none;border-bottom:solid #000000 1pt;padding:4.2pt 8.35pt 4.2pt 4.2pt'>
+  <p><b><i>Download unsigned ActiveX controls</i></b><br>
+  (<b><i>Загрузка неподписанных ActiveX-компонентов</i></b></p>
+  </td>
+  <td style='border:none;border-bottom:solid #000000 1pt;padding:4.2pt 8.35pt 4.2pt 4.2pt'>
+  <p><b><i>Prompt<br></i></b>
+  <b><i>Предлагать</i></b>)</p>
+  </td>
+ </tr>
+ <tr>
+  <td style='padding:4.2pt 8.35pt 4.2pt 4.2pt'>
+  <p><b><i>Automatic prompting ActiveX controls</i></b><br>
+  (<b><i>Автоматически спрашивать для неподписанных компонентов ActiveX</i></b></p>
+  </td>
+  <td style='padding:4.2pt 8.35pt 4.2pt 4.2pt'>
+  <p class=MsoNormal><b><i>Enable</i></b><br>
+  <b><i>Разрешить</i></b>)</p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p><center><img width=353 height=415 src="IE_tuning.files/image003.jpg"></center></p>
+
+<p class=Body>Выйдите из панели, нажав кнопку <b><i>"OK"</i></b>.</center></p>
+
+<p class=Body>Подтвердите настройки, нажав кнопку <b><i>"Yes"</i></b> (<i><b>"Да"</i></b>).</center></p>
+
+<p><center><img src="IE_tuning.files/image004.jpg" width=400 height=125></center></p>
+
+<p class=Body>Текущий пользователь при установке  ActiveX-компонента
+(при первой загрузке) должен иметь <b><i>права администратора</i></b>.</p>
+
+<hr>
+<h1>Вход на страницу просмотра</h1>
+
+<p>Через несколько секунд после входа <b>MS Internet Explorer</b> на веб-страницу с видеоокном появится вопрос</p>
+<p><center><img src="IE_tuning.files/image005.jpg" width=461 height=236></center></p>
+
+<p>Следует нажать <b><i>"Install"</i></b> (<b><i>"Установить"</i></b>).</p>
+
+<hr>
+<h1>Требования к компьютерной сети</h1>
+
+<p>Для приема видеопотока необходимо, чтобы на промежуточных узлах сети между сервером, 
+передающим видео-аудиопоток и на клиентской машине было разрешено прохождение 
+потока данных по <b>порту 80</b> по протоколам <b>TCP</b> и <b>UDP</b> в обе стороны.</p>
+
+<hr>
+</body>
+</html>

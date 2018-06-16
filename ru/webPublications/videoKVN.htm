@@ -1,0 +1,643 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0030)http://telemost.usi.ru/?main=7 -->
+<HTML><HEAD><TITLE>Телемост КВН «100 гигабайт смеха» - Как это смотреть?</TITLE>
+<META http-equiv=content-type content="text/html; charset=windows-1251">
+<META http-equiv=pragma content=no-cache><LINK href="videoKVN_files/style.css" 
+type=text/css rel=stylesheet><LINK href="videoKVN_files/style_plev2.css" 
+type=text/css rel=stylesheet>
+<SCRIPT src="videoKVN_files/counter.js" type=text/javascript> </SCRIPT>
+
+<STYLE type=text/css>IMG.png_trans {
+	BEHAVIOR: url('css/pngtrans.htc')
+}
+</STYLE>
+
+<SCRIPT language=JavaScript type=text/javascript>
+function preloadImages() { //v3.0
+	var d=document;
+	if(d.images) {
+		if(!d.imageArray) d.imageArray=new Array();
+		var i,j=d.imageArray.length,a=preloadImages.arguments;
+		for(i=0; i<a.length; i++)
+			if (a[i].indexOf("#")!=0){ d.imageArray[j]=new Image; d.imageArray[j++].src=a[i];}
+	}
+}
+
+function swapImage(obj) {
+	document.imageArray.push(document.imageArray.shift());
+	document.getElementById(obj).src = document.imageArray[0].src;
+}
+
+
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 7;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Revision of Flash required
+var requiredRevision = 0;
+// the version of javascript supported
+var jsVersion = '1.0';
+// -----------------------------------------------------------------------------
+// -->
+</SCRIPT>
+
+<SCRIPT language=VBScript type=text/vbscript>
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</SCRIPT>
+
+<SCRIPT language=JavaScript1.1 type=text/javascript>
+<!-- // Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+jsVersion = 1.1;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			descArray = flashDescription.split(" ");
+			tempArrayMajor = descArray[2].split(".");
+			versionMajor = tempArrayMajor[0];
+			versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	} else {
+			flashVer = -1;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	// Can't detect in all other cases
+	else {
+		
+		flashVer = -1;
+	}
+	return flashVer;
+} 
+// If called with no parameters this function returns a floating point value 
+// which should be the version of the Flash Player or 0.0 
+// ex: Flash Player 7r14 returns 7.14
+// If called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version	
+	for (i=25;i>0;i--) {	
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);		
+		}
+		if (versionStr == -1 ) { 
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");				
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			versionMajor      = versionArray[0];
+			versionMinor      = versionArray[1];
+			versionRevision   = versionArray[2];
+			
+			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+				return true;
+			} else {
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+			}
+		}
+	}	
+	return (reqVer ? false : 0.0);
+}
+// -->
+
+var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+var ua = navigator.userAgent.toLowerCase();
+</SCRIPT>
+
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY id=body_el bottomMargin=0 leftMargin=0 topMargin=0 rightMargin=0>
+<DIV style="DISPLAY: none">
+<SCRIPT type=text/javascript>spylog_tracker(769607); </SCRIPT>
+<NOSCRIPT><A href="http://u7696.07.spylog.com/cnt?cid=769607&amp;f=3&amp;p=0" 
+target=_blank><IMG height=1 alt=SpyLOG src="videoKVN_files/cnt.gif" width=1 
+border=0> </A></NOSCRIPT></DIV>
+<DIV id=start_div style="WIDTH: 100%; POSITION: relative; HEIGHT: 100%"><!--Асфальт, небо, город-->
+<DIV style="WIDTH: 100%; POSITION: absolute; HEIGHT: 100%">
+<TABLE id=tbl_0 height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+  border=0><TBODY>
+  <TR>
+    <TD id=sky_kvn3 vAlign=bottom bgColor=#cbe2fc height="100%">
+      <TABLE height=486 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD id=sity2 vAlign=top width="100%" height=456><IMG height=1 alt="" 
+            src="videoKVN_files/1x1.gif" width=991 
+    border=0></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD id=asphalt vAlign=top height=312>&nbsp;</TD></TR></TBODY></TABLE></DIV><!--//Асфальт, небо, город--><!--Забор, беседка-->
+<DIV style="Z-INDEX: 1; WIDTH: 100%; POSITION: absolute; HEIGHT: 100%">
+<TABLE id=tbl_1 height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+  border=0><TBODY>
+  <TR>
+    <TD vAlign=bottom height="100%">
+      <TABLE height=510 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD id=pergola vAlign=bottom><IMG height=1 alt="" 
+            src="videoKVN_files/1x1.gif" width=991 
+    border=0></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top height=312>&nbsp;</TD></TR></TBODY></TABLE></DIV><!--//Забор, беседка--><!--Фон для основного контента + кавээнщик-->
+<DIV style="Z-INDEX: 2; WIDTH: 100%; POSITION: absolute; HEIGHT: 100%">
+<TABLE id=tbl_2 height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+  border=0><TBODY>
+  <TR>
+    <TD vAlign=top height=1><IMG height=1 alt="" src="videoKVN_files/1x1.gif" 
+      width=255 border=0></TD>
+    <TD vAlign=top><IMG height=1 alt="" src="videoKVN_files/1x1.gif" width=18 
+      border=0></TD>
+    <TD vAlign=top bgColor=#c3cfc0><IMG height=1 alt="" 
+      src="videoKVN_files/1x1.gif" width=9 border=0></TD>
+    <TD vAlign=top width="100%" bgColor=#c3cfc0><IMG height=1 alt="" 
+      src="videoKVN_files/1x1.gif" width=708 border=0></TD></TR>
+  <TR>
+    <TD vAlign=bottom align=middle rowSpan=5>
+      <DIV style="WIDTH: 100%; POSITION: relative; HEIGHT: 100%">
+      <DIV style="LEFT: 68px; BOTTOM: 195px; POSITION: absolute"><IMG 
+      class=png_trans height=262 alt="" src="videoKVN_files/kvn_man_1.png" 
+      width=135 border=0></DIV></DIV></TD>
+    <TD height=43></TD>
+    <TD style="PADDING-LEFT: 23px" bgColor=#c3cfc0 colSpan=2></TD></TR>
+  <TR>
+    <TD colSpan=2 height="100%"></TD>
+    <TD vAlign=top>
+      <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD id=content_l2_bg3 vAlign=top><IMG height=1 alt="" 
+            src="videoKVN_files/1x1.gif" width=37 border=0></TD>
+          <TD id=content_l2_bg vAlign=top width="100%">
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top height=1><IMG height=1 alt="" 
+                  src="videoKVN_files/1x1.gif" width=271 border=0></TD></TR>
+              <TR>
+                <TD vAlign=top 
+      height="100%"></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD height=7></TD>
+    <TD vAlign=top align=right><IMG height=7 alt="" 
+      src="videoKVN_files/wall_jut.gif" width=9 border=0></TD>
+    <TD id=wall_border></TD></TR>
+  <TR>
+    <TD id=wall_jut2 height=128></TD>
+    <TD vAlign=top colSpan=2>
+      <TABLE height=128 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD class=wall_1 vAlign=top width="100%" height=16></TD></TR>
+        <TR>
+          <TD class=wall_2 vAlign=top width="100%" height=16></TD></TR>
+        <TR>
+          <TD class=wall_1 vAlign=top width="100%" height=16></TD></TR>
+        <TR>
+          <TD class=wall_2 vAlign=top width="100%" height=16></TD></TR>
+        <TR>
+          <TD class=wall_1 vAlign=top width="100%" height=16></TD></TR>
+        <TR>
+          <TD class=wall_2 vAlign=top width="100%" height=16></TD></TR>
+        <TR>
+          <TD class=wall_1 vAlign=top width="100%" height=16></TD></TR>
+        <TR>
+          <TD class=wall_2 vAlign=top width="100%" 
+      height=16></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top align=right height=150><IMG height=12 alt="" 
+      src="videoKVN_files/asphalt_shadow_el2.gif" width=16 border=0></TD>
+    <TD vAlign=top><IMG height=12 alt="" 
+      src="videoKVN_files/asphalt_shadow_el1.gif" width=10 border=0></TD>
+    <TD id=asphalt_shadow>&nbsp;</TD></TR></TBODY></TABLE></DIV><!--//Фон для основного контента + мужик с цветами--><!--Рекламный щит-->
+<DIV style="Z-INDEX: 3; WIDTH: 100%; POSITION: absolute; HEIGHT: 100%">
+<TABLE id=tbl_3 cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top><IMG height=1 alt="" src="videoKVN_files/1x1.gif" width=991 
+      border=0></TD></TR>
+  <TR>
+    <TD style="PADDING-RIGHT: 10px; PADDING-BOTTOM: 30px" vAlign=bottom 
+    align=right height="100%">
+      <DIV><IMG class=png_trans height=412 alt="" src="videoKVN_files/board.png" 
+      width=263 border=0></DIV></TD></TR></TBODY></TABLE></DIV><!--//Рекламный щит--><!--Основной контент-->
+<DIV style="Z-INDEX: 4; WIDTH: 100%; POSITION: absolute; HEIGHT: 100%">
+<TABLE id=tbl_4 height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+  border=0><TBODY>
+  <TR>
+    <TD vAlign=top height=1><IMG height=1 alt="" src="videoKVN_files/1x1.gif" 
+      width=255 border=0></TD>
+    <TD vAlign=top><IMG height=1 alt="" src="videoKVN_files/1x1.gif" width=18 
+      border=0></TD>
+    <TD vAlign=top bgColor=#c3cfc0><IMG height=1 alt="" 
+      src="videoKVN_files/1x1.gif" width=9 border=0></TD>
+    <TD vAlign=top width="100%" bgColor=#c3cfc0><IMG height=1 alt="" 
+      src="videoKVN_files/1x1.gif" width=708 border=0></TD></TR>
+  <TR>
+    <TD vAlign=top align=left rowSpan=2><!--Логотип и дерево разделов-->
+      <DIV id=logo style="PADDING-LEFT: 11px; MARGIN-BOTTOM: 5px"><A 
+      href="http://www.usi.ru/" target=_blank><IMG class=png_trans height=83 
+      alt="" src="videoKVN_files/usi_logo.png" width=244 border=0></A></DIV><!--Меню «Команды»-->
+      <DIV class=tree_menu>
+      <TABLE cellSpacing=0 cellPadding=0 width=231 border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top width=6 height=9><IMG height=9 alt="" 
+            src="videoKVN_files/menu_angle_top_left.gif" width=9 border=0></TD>
+          <TD class=menu_top_bg width=216></TD>
+          <TD vAlign=top width=9><IMG height=9 alt="" 
+            src="videoKVN_files/menu_angle_top_right.gif" width=9 
+border=0></TD></TR>
+        <TR>
+          <TD class=menu_left_bg></TD>
+          <TD class=tree_content vAlign=top>
+            <DIV class=menu_name>Команды</DIV>
+            <DIV class=sub_menu_name>Уральские пельмени</DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=1">о 
+              команде</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=2">персоналии</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=top><A style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=3">шутки</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=sub_menu_name>Лица уральской национальности</DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=4">о 
+              команде</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=5">персоналии</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=top><A style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=6">шутки</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV style="MARGIN-TOP: 15px"></DIV>
+            <DIV class=menu_name style="MARGIN-BOTTOM: 8px">О проекте</DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=7">о чем 
+              речь</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=8">организаторы</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV style="MARGIN-TOP: 15px"></DIV>
+            <DIV class=menu_name style="MARGIN-BOTTOM: 8px">Спонсоры</DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=11">в 
+              Екатеринбурге</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV class=sub_menu>
+            <TABLE cellSpacing=0 cellPadding=0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=sub_menu_list vAlign=center><IMG height=5 alt="" 
+                  src="videoKVN_files/tree_list.gif" width=6 border=0></TD>
+                <TD class=sub_menu_text vAlign=center><A 
+                  style="COLOR: #22308e" 
+                  href="http://telemost.usi.ru/?other=12">в 
+              Челябинске</A></TD></TR></TBODY></TABLE></DIV>
+            <DIV style="MARGIN-TOP: 9px"></DIV></TD>
+          <TD class=menu_right_bg></TD></TR>
+        <TR>
+          <TD vAlign=top height=9><IMG height=9 alt="" 
+            src="videoKVN_files/menu_angle_bottom_left.gif" width=9 border=0></TD>
+          <TD class=menu_bottom_bg vAlign=top></TD>
+          <TD vAlign=top><IMG height=9 alt="" 
+            src="videoKVN_files/menu_angle_bottom_right.gif" width=9 
+        border=0></TD></TR></TBODY></TABLE></DIV><!--//Меню «Команды»--><!--//Логотип и дерево разделов--></TD>
+    <TD height=62></TD>
+    <TD class=content_pad_1_kvn align=right bgColor=#c3cfc0 colSpan=2>
+      <TABLE class=menu2 height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+      border=0>
+        <TBODY>
+        <TR>
+          <TD class=menu_pad_right vAlign=center noWrap align=middle><A 
+            href="http://telemost.usi.ru/">На главную</A></TD>
+          <TD class=menu_pad_right vAlign=center align=middle><A 
+            href="http://telemost.usi.ru/?main=1">Жюри</A></TD>
+          <TD class=menu_pad_right vAlign=center align=middle><A 
+            href="http://telemost.usi.ru/?main=2">Оценки</A></TD>
+          <TD class=menu_pad_right vAlign=center align=middle><A 
+            href="http://telemost.usi.ru/?main=3">Билеты</A></TD>
+          <TD class=menu_pad_right vAlign=center align=middle><A 
+            href="http://telemost.usi.ru/?main=5">Для прессы</A></TD>
+          <TD class=menu_pad_right_hlight vAlign=center noWrap align=middle 
+          width="22%"><A href="http://telemost.usi.ru/?main=4">Подключи 
+          DSL</A></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD colSpan=2 height="100%"></TD>
+    <TD vAlign=top>
+      <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 6px; PADDING-LEFT: 53px; PADDING-BOTTOM: 20px; PADDING-TOP: 30px" 
+          vAlign=top width="100%" height="100%">
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top height="100%"><!--Текст-->
+                  <STYLE type=text/css>UL {
+	MARGIN-TOP: 15px; MARGIN-LEFT: 50px
+}
+OL {
+	MARGIN-TOP: 15px; MARGIN-LEFT: 50px
+}
+LI {
+	MARGIN-BOTTOM: 5px
+}
+</STYLE>
+
+                  <DIV class=margin_block_3><SPAN class=h2>Как смотреть 
+                  видео?</SPAN></DIV>
+                  <DIV class=margin_block_3>
+                  <P>Накануне игры Вы увидите под экраном, на котором будет 
+                  производиться трансляция, панель настройки видео.</P>
+                  <P>Просматривать видео можно только на компьютере под 
+                  операционной системой MS Windows.</P>
+                  <P><IMG style="MARGIN-BOTTOM: 30px; MARGIN-RIGHT: 30px" 
+                  height=300 alt="" src="videoKVN_files/how_watch.jpg" width=275 
+                  align=left><B>Качество видео</B></P>
+                  <P>Трансляция будет осуществляться в нескольких вариантах 
+                  скорости передачиот 50 кбит/с до 1,2 Мбит/с (чем выше 
+                  скорость, тем выше качество).</P>
+                  <P>Общий объём трафика трансляции определяется длительностью 
+                  трансляции и выбранным уровнем качества. При оценке объема 
+                  трафика можно ориентироваться на следующие параметры:</P>
+                  <P>
+                  <DIV style="MARGIN-BOTTOM: 5px">1.&nbsp; &nbsp;50 кбит/с ~ 7 
+                  кбайт/с ~ 0,4 Мбайт/мин</DIV>
+                  <DIV style="MARGIN-BOTTOM: 5px">2.&nbsp; &nbsp;300 кбит/с ~ 38 
+                  кбайт/с ~ 2,2 Мбайт/мин</DIV>
+                  <DIV style="MARGIN-BOTTOM: 5px">3.&nbsp; &nbsp;600 кбит/с ~ 75 
+                  кбайт/с ~ 4,4 Мбайт/мин</DIV>
+                  <DIV style="MARGIN-BOTTOM: 5px">4.&nbsp; &nbsp;1,2 Мбит/с ~ 
+                  150 кбайт/с ~ 8,8 Мбайт/мин</DIV>
+                  <P></P>
+                  <P><B>Способ просмотра</B></P>
+                  <P>Способ просмотра выбирается с помощью списка 
+                  <B>"Window"</B>/<B>"Viewer"</B> под окном для видео.</P>
+                  <P><B>Window</B> — в окне, встроенном в веб-страницу (с 
+                  помощью ActiveX-элемента). Этот способ возможен только если 
+                  используется <B>MS Internet Explorer</B>, в котором разрешены 
+                  загрузка и исполнение ActiveX элементов.</P>
+                  <P>Необходимый для просмотра ActiveX-элемент загружается 
+                  автоматически при первом входе на веб-страницу с видео — после 
+                  утвердительного ответа на вопрос браузера об установке и 
+                  запуске «Vidicor Viewer Component». Если вы уже пропустили 
+                  этот диалог, обновите страницу в браузере (F5) и ответьте на 
+                  этот диалог утвердительно.</P>
+                  <P>ActiveX-элемент можно установить и вручную (без 
+                  использования механизма установки MS Internet Explorer) по 
+                  ссылке <A class=txt_link 
+                  href="http://webtv.uran.ru/viewer/activex_setup.exe">http://webTV.uran.ru/viewer/activex_setup.exe</A>.</P>
+                  <P><B>Viewer</B> — в отдельном окне специального просмотрщика 
+                  <B>Vidicor-Watcher</B>. При этом тип используемого 
+                  интернет-браузера и его настройки не имеют значения. Более 
+                  того, в этом случае просмотр возможен вообще без 
+                  интернет-браузера.</P>
+                  <P>Необходимое для просмотра приложение Watcher должно быть 
+                  установлено вручную по ссылке <A class=txt_link 
+                  href="http://webtv.uran.ru/viewer/watcher_setup.exe">http://webTV.uran.ru/viewer/watcher_setup.exe</A></P></DIV>
+                  <DIV class=margin_block_3><SPAN class=h2>Требования к 
+                  компьютеру, операционной системе и каналу выхода в 
+                  Интернет</SPAN></DIV>
+                  <DIV class=margin_block_3>
+                  <P>
+                  <OL>
+                    <LI>Для просмотра видеозаписей необходим компьютер 
+                    достаточной производительности (зависит от размера кадра и 
+                    частоты кадров в секунду). 
+                    <LI>Необходимо, чтобы подключение к Интернет осуществлялось 
+                    по каналу с пропускной способностью не менее, чем на 20% 
+                    превышающей суммарный поток для видеозаписи (аудиопоток + 
+                    видеопоток — указаны для каждой записи). 
+                    <LI>Пользователям Windows 95 / 95OSR2 необходимо обновить 
+                    библиотеку WinSock до версии 2. Загрузить ее обновление 
+                    можно <A class=txt_link href="http://alltv.ru/ru/soft.html" 
+                    target=_blank>отсюда</A>. 
+                    <LI>Пользователям Windows 95 / 95OSR2 и Windows NT 4 
+                    необходимо установить драйвера MS Windows DirectX версии не 
+                    ниже 6.0. Для Windows NT 4 эти драйвера выпускаются только в 
+                    составе Service Pack 3 и выше. Последние версии этих 
+                    драйверов можно загрузить <A class=txt_link 
+                    href="http://alltv.ru/ru/soft.html">отсюда</A>. 
+                    <LI>На сетевом экране (FireWall) должно быть открыто 
+                    прохождение потоков по порту 80 по протоколам TCP и UDP. 
+                    </LI></OL>
+                  <P></P>
+                  <P>Более подробную информацию Вы можете получить на сайте <A 
+                  class=txt_link 
+                  href="http://alltv.ru/ru/VidicomViewer_help.htm" 
+                  target=_blank>alltv.ru</A>.</P></DIV><!--//Текст--></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=top height=1><IMG height=1 alt="" 
+                  src="videoKVN_files/1x1.gif" width=271 border=0></TD></TR>
+              <TR>
+                <TD vAlign=bottom align=right height="100%">
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD vAlign=top width="100%" height=340>
+                        <DIV 
+                        style="PADDING-LEFT: 53px; WIDTH: 100%; POSITION: relative; HEIGHT: 340px">
+                        <DIV 
+                        style="Z-INDEX: 6; LEFT: 5px; BOTTOM: 43px; POSITION: absolute"><A 
+                        href="http://telemost.usi.ru/?main=4"><IMG 
+                        class=png_trans height=98 alt="" 
+                        src="videoKVN_files/grafity2_v4.png" width=323 
+                        border=0></A></DIV>
+                        <DIV 
+                        style="Z-INDEX: 5; LEFT: 145px; BOTTOM: 27px; POSITION: absolute"><IMG 
+                        class=png_trans height=100 alt="" 
+                        src="videoKVN_files/grafity_1.png" width=350 border=0> 
+                        </DIV></DIV></TD>
+                      <TD style="PADDING-RIGHT: 28px; PADDING-TOP: 34px" 
+                      vAlign=top><A 
+                        href="http://www.u-tel.ru/content/Presscenter/news/news21" 
+                        target=_blank><IMG height=300 
+                        alt="Utel - Все сложится хорошо" 
+                        src="videoKVN_files/all-will-be-ok.gif" width=200 
+                        border=0></A></TD></TR>
+                    <TR>
+                      <TD vAlign=bottom colSpan=2>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="PADDING-RIGHT: 5px" vAlign=top 
+                            width="54%" height=119>
+                              <DIV 
+                              style="MARGIN-BOTTOM: 10px; TEXT-ALIGN: left"><A 
+                              style="COLOR: #ffffff" 
+                              href="http://telemost.usi.ru/?other=10">Написать 
+                              организаторам</A></DIV>
+                              <DIV 
+                              style="FONT-SIZE: 11px; COLOR: #bfbfbf; TEXT-ALIGN: left"><NOBR>Copyright 
+                              © &nbsp;<A style="COLOR: #bfbfbf" 
+                              href="http://www.usi.ru/" 
+                              target=_blank>«Уралсвязьинформ»</A>,</NOBR> 
+                              <NOBR>«Новые технологии развлечений», «Лорд 
+                              Групп»</NOBR><BR>При содействии <NOBR><A 
+                              style="COLOR: #bfbfbf" href="http://www.amik.ru/" 
+                              target=_blank>Творческого Объединения 
+                              АМиК</A></NOBR> <NOBR>и лично Александра 
+                              Васильевича Маслякова</NOBR> 
+                              <DIV 
+                              style="MARGIN-TOP: 5px; FONT-SIZE: 11px; COLOR: #bfbfbf; TEXT-ALIGN: left">Видеомост 
+                              и интернет-трансляция будет проводиться с помощью 
+                              системы <A style="COLOR: #bfbfbf" 
+                              href="http://www.vidicor.ru/" 
+                              target=_blank>Vidicor</A></DIV></DIV></TD>
+                            <TD style="COLOR: #fce3a7; PADDING-TOP: 5px" 
+                            vAlign=top width="46%">Сделано в<BR><A 
+                              style="COLOR: #fce3a7" 
+                              href="http://uralreklama.ru/" 
+                              target=_blank>«Интернет для каждого»</A> </TD></TR><!--<tr>
+								     <td colspan="2" height="27">
+								       <div style="color:#bfbfbf; text-align:left; font-size:11px">Видеомост и интернет-трансляция будет проводиться с помощью системы <a href="http://www.vidicor.ru" style="color:#bfbfbf" target="_blank">Vidicor</a></div>
+								     </td>
+								   </tr>--></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></DIV><!--//Основной контент--></DIV>
+<SCRIPT language=JavaScript>
+  /*Переход с flash-баннера*/ 
+    function fnclick()
+	 {
+	  document.location.href = "http://www.u-tel.ru/content/Presscenter/news/news21";
+	 }
+  /*********************************/
+
+  /*Подгонка высоты таблиц-каркасов*/
+   function TblSize()
+    {
+	  document.getElementById('tbl_4').style.height = "100%";
+	  a1 = document.getElementById('tbl_4').offsetHeight;
+	  
+	  if (a1 > 910)
+	    {
+	     off_height = document.getElementById('tbl_4').offsetHeight;
+	    }
+	    else
+		 {
+		  off_height = 910;
+		 }   
+          
+			 
+	 document.getElementById('tbl_0').style.height = off_height + "px";
+	 document.getElementById('tbl_1').style.height = off_height + "px";
+	 document.getElementById('tbl_2').style.height = off_height + "px";
+	 document.getElementById('tbl_3').style.height = off_height + "px";
+	 document.getElementById('tbl_4').style.height = off_height + "px";
+	 
+	 //alert(document.getElementById('start_div').offsetHeight  + "; " + document.getElementById('tbl_0').offsetHeight + "; " + document.getElementById('tbl_1').offsetHeight + "; " + document.getElementById('tbl_2').offsetHeight);
+	 //alert(document.body.offsetHeight);
+    }	
+	
+   window.onresize = TblSize;
+   TblSize();  
+ /*********************************/
+</SCRIPT>
+</BODY></HTML>

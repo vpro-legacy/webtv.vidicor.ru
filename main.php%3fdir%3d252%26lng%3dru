@@ -1,0 +1,889 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Directory of WebTV videos</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="style1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webcam.imm.uran.ru", "http://webtv.uran.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+<SCRIPT language='JScript' src='rmxfrecv.js'></SCRIPT>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+
+<!-- убрано лишнее для ИТАР-ТАСС -->
+<hr>
+ <h2 align="center">
+        <font color=#2b0079>
+ИТАР-ТАСС-Урал 
+</font>
+</h2>
+
+<hr>
+
+<div align="center">
+
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1598&var=1'><img src='pics/11nemtsov.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 500+8&nbsp;кбит/с, 22&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1598&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl0.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl0.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 500+8&nbsp;кбит/с, 22&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1598&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl0.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl0.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 1300+64&nbsp;кбит/с, 248&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1598&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl0.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl0.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 2000+128&nbsp;кбит/с, 621&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция<br>Б.Немцова<br>в ИТАР-ТАСС-Урал <br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">28.08.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1599&var=1'><img src='pics/n-b.jpg' alt="" border="0" title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 8.1&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1599&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl1.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl1.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl1.1"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 8.1&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1599&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl1.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl1.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl1.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 1300+64&nbsp;кбит/с, 248&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1599&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl1.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl1.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl1.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 2000+128&nbsp;кбит/с, 621&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Фрагмент пресс-конференции Б.Немцова<br><br><br><br>
+<br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1600&var=1'><img src='pics/olshanskii.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 500+8&nbsp;кбит/с, 17&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1600&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl2.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl2.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl2.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 500+8&nbsp;кбит/с, 17&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1600&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl2.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl2.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl2.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 1300+64&nbsp;кбит/с, 225&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1600&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl2.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl2.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl2.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 2000+128&nbsp;кбит/с, 642&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция Д.Ольшанского<br>в ИТАР-ТАСС-Урал <br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">28.08.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1601&var=1'><img src='pics/1vorobiov.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 13&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1601&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl3.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl3.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl3.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 13&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1601&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl3.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl3.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl3.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 201&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1601&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl3.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl3.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl3.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 516&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция А.Воробьева<br>в ИТАР-ТАСС-Урал<br> <br><br>    </DIV>
+<div align="center">
+<br><span class="style1">03.09.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1602&var=1'><img src='pics/filip.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 300&nbsp;кб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1602&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl4.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl4.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl4.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 300&nbsp;кб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1602&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl4.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl4.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl4.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 4.4&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1602&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl4.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl4.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl4.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 10&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+А.Филиппенков<br>в ИТАР-ТАСС-Урал <br><br> <br><br>    </DIV>
+<div align="center">
+<br><span class="style1">03.09.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1603&var=1'><img src='pics/golubitskii_small.gif' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 19&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1603&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl5.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl5.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl5.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 19&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1603&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl5.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl5.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl5.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 294&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1603&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl5.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl5.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl5.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 794&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция В.Голубицкого<br>в ИТАР-ТАСС-Урал<br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">11.09.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1604&var=1'><img src='pics/tass-magistral.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 14&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1604&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl6.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl6.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl6.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 14&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1604&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl6.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl6.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl6.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 223&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1604&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl6.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl6.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl6.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 601&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция о "Магистрали-2003" <br> в ИТАР-ТАСС-Урал<br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">19.09.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1605&var=1'><img src='pics/itarclip.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 1.2&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1605&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl7.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl7.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl7.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 1.2&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1605&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl7.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl7.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl7.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 14&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1605&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl7.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl7.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl7.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 45&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Фильм ИТАР-ТАСС-Урал "5&nbsp;жизней&nbsp;новости"<br><br><br><br>
+<br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1606&var=1'><img src='pics/11Mjur.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 12&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1606&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl8.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl8.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl8.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 12&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1606&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl8.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl8.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl8.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 189&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1606&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl8.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl8.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl8.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 525&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+"300 лет российской журналистики &ndash; 300 лет российской истории" <br>
+Москва, Манеж <br><br>    </DIV>
+<div align="center">
+<br><span class="style1">24.09.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1607&var=1'><img src='pics/1Tass-kino.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 19&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1607&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl9.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl9.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl9.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 19&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1607&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl9.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl9.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl9.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 292&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1607&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl9.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl9.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl9.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 819&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция организаторов и членов жюри 
+фестиваля документального кино "Россия"<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">30.09.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1608&var=1'><img src='pics/1Zakl_press.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 9.1&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1608&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl10.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl10.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl10.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 9.1&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1608&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl10.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl10.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl10.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 128&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1608&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl10.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl10.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl10.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 383&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Завершающая пресс-конференция XIV открытого фестиваля документального 
+кино "Россия"<br> 21:20-22:00
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">06.10.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1609&var=1'><img src='pics/Zhirinovskii.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 8.2&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1609&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl11.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl11.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl11.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 8.2&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1609&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl11.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl11.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl11.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 125&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1609&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl11.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl11.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl11.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 327&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция В.Жириновского <br>в ИТАР-ТАСС-Урал<br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">29.10.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1610&var=1'><img src='pics/KruglyiStol.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 24&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1610&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl12.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl12.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl12.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 24&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1610&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl12.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl12.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl12.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 367&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1610&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl12.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl12.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl12.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 1.0&nbsp;Гб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Круглый стол на тему "Социальная ответственность бизнеса" <br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">29.10.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1611&var=1'><img src='pics/Mironov.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 10&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1611&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl13.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl13.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl13.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 10&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1611&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl13.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl13.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl13.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 153&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1611&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl13.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl13.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl13.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 378&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция<br>Лидер "Российской партии жизни" C.М.Миронов<br> <br><br>    </DIV>
+<div align="center">
+<br><span class="style1">22.11.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1612&var=1'><img src='pics/KrStol1.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 15&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1612&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl14.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl14.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl14.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 15&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1612&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl14.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl14.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl14.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 223&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1612&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl14.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl14.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl14.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 615&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Круглый стол на тему "Власть и бизнес: коррупция или партнерство?" 
+13:00 - 14:00<br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">25.11.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1613&var=1'><img src='pics/KrStol2.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 17&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1613&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl15.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl15.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl15.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 17&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1613&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl15.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl15.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl15.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 258&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1613&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl15.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl15.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl15.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 725&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Круглый стол на тему "Власть и бизнес: коррупция или партнерство?" 
+14:00 - 15:00<br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">25.11.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1614&var=1'><img src='pics/Pohmelkin.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 10&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1614&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl16.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl16.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl16.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 10&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1614&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl16.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl16.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl16.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 148&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1614&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl16.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl16.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl16.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 298&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция В.В.Похмелкина <br>в ИТАР-ТАСС-Санкт-Петербург<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">27.11.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1615&var=1'><img src='pics/krstol3.JPG' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 27&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1615&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl17.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl17.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl17.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 27&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1615&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl17.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl17.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl17.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 378&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1615&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl17.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl17.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl17.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 1.0&nbsp;Гб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Круглый стол на тему "Способна ли Россия на экономический рывок?"<br>
+<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">19.12.2003</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1616&var=1'><img src='pics/picITU.JPG' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 9.6&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1616&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl18.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl18.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl18.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 9.6&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1616&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl18.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl18.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl18.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 133&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1616&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl18.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl18.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl18.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 408&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция участников фестиваля "Земля-наш общий дом" <br>
+<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">26.03.2004</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1617&var=1'><img src='pics/India.JPG' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 16&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1617&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl19.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl19.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl19.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 16&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1617&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl19.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl19.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl19.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 231&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1617&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl19.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl19.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl19.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 593&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Урал-Индия:
+<br>новая стадия сотрудничества<br><br>
+<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">06.04.2004</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1618&var=1'><img src='pics/roizm.JPG' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 12&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1618&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl20.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl20.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl20.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+8&nbsp;кбит/с, 12&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1618&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl20.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl20.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl20.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 500+64&nbsp;кбит/с, 176&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1618&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl20.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl20.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl20.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1500+128&nbsp;кбит/с, 491&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Евгений Ройзман: первые 100 дней в Госдуме <br><br>
+<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">06.04.2004</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=252&rec=1619&var=1'><img src='pics/formulaOfPower.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 30+16&nbsp;кбит/с, 8.8&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1619&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl21.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl21.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl21.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 30+16&nbsp;кбит/с, 8.8&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1619&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl21.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl21.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl21.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 241+64&nbsp;кбит/с, 58&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=252&rec=1619&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl21.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl21.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl21.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 996+128&nbsp;кбит/с, 215&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Формула власти <br> Индия <br> Ваджапаи <br> <br>2004
+<br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=254&lng=ru'>
+	<img src='pics/11magistral1.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=254&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir0','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir0','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir0"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Уральская выставка-ярмарка <br>"Магистраль 2003" <br>
+Нижний Тагил <br>    </DIV>
+<div align="center">
+<br><span class="style1">08.10.2003</span> - <span class="style1">10.10.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=255&lng=ru'>
+	<img src='pics/1111111111111111111111111111111111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=255&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir1','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir1','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir1"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+"ЯВА-ТРОФИ-2004":
+первые итоги после старта
+<br>Екатеринбург
+<br>ИТАР-ТАСС-Урал 
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">21.07.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=256&lng=ru'>
+	<img src='pics/picSVRW_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=256&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir2','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir2','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir2"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция <br> 
+"СвЖД - дорога, которая <br>
+нас выбирает" <br>
+Шевкет Шайдуллин <br>
+Екатеринбург <br>    </DIV>
+<div align="center">
+<br><span class="style1">12.05.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=257&lng=ru'>
+	<img src='pics/picKov_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=257&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir3','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir3','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir3"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция <br> 
+Первого зам. председателя <br>
+Правительства Свердл. обл.<br>
+Г.А.Ковалевой<br>
+ИТАР-ТАСС-Урал <br>    </DIV>
+<div align="center">
+<br><span class="style1">16.05.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=442&lng=ru'>
+	<img src='pics/itar-tass/tass-prognoz.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=442&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir4','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir4','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir4"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+ТАСС-Прогноз<br>    </DIV>
+<div align="center">
+<br><span class="style1">01.10.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=459&lng=ru'>
+	<img src='picForArch/0014_ITU_IDEA_05/picID_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=459&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir5','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir5','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir5"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Пресс-конференция<br>
+"Идея на рынке.<br>
+Кому она нужна?"<br>    </DIV>
+<div align="center">
+<br><span class="style1">01.12.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=477&lng=ru'>
+	<img src='/picForArch/0024_Kambarka_06/picKambarka_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=477&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir6','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir6','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir6"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Запуск второго в России объекта по уничтожению химоружия в Удмуртии<br> (Камбарка)<br>    </DIV>
+<div align="center">
+<br><span class="style1">01.03.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=580&lng=ru'>
+	<img src='/picForARch/0055_KHAKAMADA_06/picKhakamada_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=580&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir7','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir7','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir7"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Пресс-конференция<br> Ирины Хакамады<br>    </DIV>
+<div align="center">
+<br><span class="style1">02.03.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=582&lng=ru'>
+	<img src='/picForArch/0056_YAVLINSKIJ_06/picYavlin_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=582&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir8','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir8','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir8"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Пресс-конференция<br> Григория Явлинского<br>    </DIV>
+<div align="center">
+<br><span class="style1">24.04.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=591&lng=ru'>
+	<img src='/picForArch/0063_AVIA_06/picAvia_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=591&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir9','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir9','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir9"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Пресс-конференция<br>
+"Уральский завод гражданской авиации"<br>    </DIV>
+<div align="center">
+<br><span class="style1">26.05.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=484&lng=ru'>
+	<img src='/picForArch/0037_railWay_06/railway06_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=484&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir10','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir10','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir10"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Свердловская железная дорога:<br>
+"прямая линия" с пассажирами и журналистами <br>    </DIV>
+<div align="center">
+<br><span class="style1">30.05.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=486&lng=ru'>
+	<img src='/picForArch/0039_RoundTable_06/roundTable_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=486&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir11','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir11','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir11"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Круглый стол:
+"Конкурентоспособность уральских курортов в предоставлении качественного санаторно-курортного лечения.
+<br>
+Новый порядок обеспечения работающего населения санаторно-курортным лечением в 2006 году за счет средств социального страхования"
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">14.06.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=590&lng=ru'>
+	<img src='/picForArch/0062_Volodin_06/picVolodin_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=590&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir12','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir12','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir12"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Пресс-конференция<br>
+Вячеслава Володина <br>    </DIV>
+<div align="center">
+<br><span class="style1">16.06.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=489&lng=ru'>
+	<img src='/picForArch/0041_Osipov_TASS_06/picOsipovTASS_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=489&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir13','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir13','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir13"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Пресс-конференция<br>
+"Российская научная школа.<br>
+Вклад в развитие государства."<br>    </DIV>
+<div align="center">
+<br><span class="style1">30.06.2006</span></div>
+        </td>
+  </tr>
+</table><br><a href="errr.php?dir=252&lng=ru">Сообщить об ошибке
+    </a><br></div>
+<a href="aindex.php?lng=ru&dir=252">Администрировать</a>
+</body>
+</html>

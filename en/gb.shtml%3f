@@ -1,0 +1,1456 @@
+<HTML>
+
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<META http-equiv="Content-Language" content="en">
+<TITLE>Guestbook</TITLE>
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webcam.imm.uran.ru", "http://webtv.uran.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+
+<script language="JavaScript" src="/loadimg.js"></script>
+
+</HEAD>
+
+<BODY color="#D3D4DC" bgcolor="#9495A9" link="#2b0079" alink="#ff0000" vlink="#2b0079"
+      onLoad="setButtons()">
+
+<CENTER>
+
+<table border="0" cellpadding="2" width="100%">
+  <tr>
+    <td width="20%" align="left">
+    </td>
+    <td width="60%">
+      <h2 align=center>
+       <font color="#2b0079">
+         Web TV Center Guestbook
+       </font>
+      </h2>
+    </td>
+    <td width="20%" align="right" valign="top"> 
+      <a href="../ru/gb.shtml">
+        <img name="russian" alt="Русский" title="Русский" border=0
+          onMouseOver="imgOver(this)"
+          onMouseOut ="imgOut (this)"
+          onMouseDown="imgDown(this)"
+          onMouseUp  ="imgUp  (this)"></a>
+    </td>
+  </tr>
+</table>
+
+</CENTER>
+
+<HR>
+
+<A href="#postmsg">Send new message<A><P>
+
+<TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR><TD bgcolor=#000000>
+<TABLE border=0 cellspacing=2 cellpadding=0 width=100%>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;37</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Радио Епархии</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Сентябрь 15, 2003  00:58:18</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте, Лизавета!
+<BR>
+<BR>Действительно, последние 2 дня трансляция радио Епархии не проводилась, сервер этого вещания был отключен. Поясню, в чем дело.
+<BR>
+<BR>Экспериментальную трансляцию Радио Епархии мы транслировали в порядке личной инициативы в течение месяца без перерывов до пятницы 12 сентября. В эти выходные 13-14 сентября мы проводили заранее намеченную перестройку оборудования -- переносили  сервер webTV.uran.ru вместе с видеобиблиотекой на новый компьютер (душу сервера, так сказать, переселяли в другое тело :-), да и стоять он будет с понедельника в другом месте (в серверном зале нашего Института математики и механики УрО РАН, а не в рабочей комнате), где будет значительно выше надежность доступа из Интернет.
+<BR>Мы попытались сделать перенос сервера так, чтобы пауза в работе webTV.uran.ru оказалась минимальной. Но это про сервер. 
+<BR>
+<BR>Теперь что касается трансляции радиостанции Епархии. Трансляция велась ранее с помощью того же самого компьютера чисто "по-любительски" -- к нему была подключена магнитола, приесенная на время отпуска одним из наших сотрудников, ею мы просто принимали радиопередачу Епархии "из эфира". Экспериментальная трансляция было прервана при переносе программных средств и данных сервера в другое место, да и отпуск сотрудника закончился.
+<BR>
+<BR>К сожалению, мы не видели почти никаких откликов не только в этой Гостевой книге, но не получили никаких откликов и от Епархии -- нужна ли кому наша инициатива или нет. Так что были изрядные сомнения, что мы вещаем не "в пустоту" и что какие-никакие наши труд и материальные затраты на содержание этой трансляции оправданы. Спасибо за Ваше письмо -- теперь понятно, что нашу трансляцию действительно кто-то слушает, что она действительно кому-то нужна, что это больше, чем наш технический эксперимент.
+<BR>
+<BR>В связи с этим мы попытаемся найти какое-то решение, чтобы возобновить трансляцию передач радио Епархии. Будем рады выслушать и учесть Ваши комментарии и пожелания.
+<BR>
+<BR>Всего доброго!<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;38</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>О радиоканале Воскресение</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:003ishim@rambler.ru">Константин</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Сентябрь 18, 2003  14:03:03</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Добрый день! Наконец мои руки дотянулись до оформления личного сайта, а Воскресеня в Интернете уже нет. Очень............ жаль! Даже на офиц. странички епархии появилась ссылка, что можно слушать радиоканал в Интернете. Если возможно, обсудите, что можно сделать, чтоб трансляция возобновилась?! С уважением и наилучшими пожеланиями, Константин Лесник. Господь с Вами! <BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;39</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>О православном радиоканале</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:003ishim@rambler.ru">Константин</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Ноябрь 23, 2003  06:16:56</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте! Очень хотел бы узнать, возобновили ли Вы трансляцию радиокагнала Воскресение. Как найти ссылку, если да? С уважением, Константин<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;40</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>О православном радиоканале</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV.uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Декабрь 31, 2003  15:08:20</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте, уважаемые Лизавета и Когстантин!
+<BR>
+<BR>Информирую вас, что наше вещание радио "Воскресение" в Интернет совместно с Екатеринбургской епархией возобновлено.
+<BR>Вы можете слушать передачи как зайдя на наш сайт webTV.uran.ru, так и зайдя на сайт Екатеринбургской епархии orthodox.etel.ru.
+<BR>
+<BR>На сей раз наши программные средства установлены на сервере в Епархии непосрекдственно рядом с аппаратной. Это не только позволяет избежать помех и потерь качества в радиоканале, но делает наше вещание полностью не зависящим от аварий и профилактик на радиопередающем центре, когда радиопередатчики выключены. Так что передача в Интернет будет слышна даже тогда, когда радиоприемники молчат.
+<BR>
+<BR>Вы можете выбрать один из двух уровней качества звука -- "средний" и "высокий".
+<BR>Прием со "средним" качеством возможен при модемном соединении (скорость 32кбит/с), при этом качество звука хуже, чем при прослушивании через УКВ-радиоприемник.
+<BR>Прием с высоким качеством звука возможен только при наличии выделенной линии и отсутствии "узких мест" в канале связи до Екатеринбурга. Но при этом качество звука приближается к качеству ЛАЗЕРНОГО ДИСКА (существенно выше, чем при приеме через радио). В отличие от радиоварианта Интернет-передача с "высоким качеством" идет в СТЕРЕО! -- основной объем вещания редакция "Воскресенья" теперь готовит со стереозвуком.
+<BR>(Разумеется, качество не может быть выше исходного звукового материала редакцмм).<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;41</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Бокс</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Антон</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 07, 2004  12:01:23</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Никак не удается посмотреть бокс. В "Опере" просто не видно никаких кнопок-ссылок, а Internet Explorer вылетает в сошибкой в процессе загрузки. <BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;42</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>bachelor of arts</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:post3@0-i35.biz">bachelor of arts</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>February 06, 2007 at 00:25:55</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+All about online and offline degree 
+<BR>online educationeducation school districtbachelor party + [URL="<a href="http://degree.ir.pl"]ian">http://degree.ir.pl"]ian</a> mckee[/URL]<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;43</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Проблемы с просмотром</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:wopler@yandex.ru">Илья</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 12, 2004  10:43:34</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте!
+<BR>В окне просмотра появилось следующее сообщение: errror bad server adress in URL string (HRESULT=80072AF9)<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;44</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Опера</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 15, 2004  12:51:05</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Некоторые интернет-браузеры пока не умеют выдавать ActiveX элементы (а видео на странице выдается ActiveX-элементом), Opera относится к таким.
+<BR>В некоторых интернет-браузерах нестандартно обрабатываются команды языка JavaScript, с помощью которых выдаются и обрабатываются некоторые элементы веб-страниц (например, кнопки), это относится и к старым версиям MS IE.
+<BR>В этих случаях можно либо использовать для просмотра современные версии MS IE, либо просматривать с помощью отдельного приложения-просмотрщика "RMXF Watcher" -- информация о том, как это делать, указана на странице просмотра под окошком просмотра.
+<BR>Приложение покажет Вам видео независимо от установленных интернет-браузеров.
+<BR>
+<BR>PS Если MS IE слетает -- это уже вопрос к службе поддержки MS :-)<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;45</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Илье - о проблемах с просмотром</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 19, 2004  11:19:58</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Насколько понятно из сообщения, приведенного вами, на вашем компьютере очень ограниченный выход в Интернет (при таком подключении видны только страницы веб-сайтов, получаемые через прокси-сервер вашей сети).
+<BR>
+<BR>За решением этой проблемы нужно обратиться к администратору вашей локальной сети, чтобы ваш компьютер был более полноценно подключен к Интернет. В качестве технической информации по решению проблемы для вашего администратора можно указать:
+<BR>1) необходимость установки DNS-сервера в настройке TCP/IP компьютера (именно на отсутствие либо неверную установку его указывает приведенное сообщение);
+<BR>2) необходимость установки в настройке TCP/IP компьютера либо глобального IP адреса, либо локального с "маскарадингом" или "NAT" (режим работы с локальным адресом через веб-прокси недостаточен);
+<BR>3) необходимость разрешить прохождение в/из вашей сети _UDP_ пакетов между портом 80 хоста webtv.uran.ru и вашими компьютерами.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;46</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Hello</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:mfraser@yahoo.com">Mick</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>February 20, 2004 at 14:21:24</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Well, I cant seem to see much video on a 56k connection, and I cant understand Russian either.. but I am sure it is great! :D<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;47</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Mick's troubles</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV.uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 25, 2004  13:32:02</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+You can see “samples” of most video records via 56k connection in the “Low” mode (press the button below video window). However, you can see a video of good quality only using high-speed Internet connection.
+<BR>
+<BR>Note that you have to use a computer with Windows operating system (XP is preferable) to see our videos. The best is to visit the site using MS Internet Explorer v.5.0 or higher). Then a viewer runs automatically (you have to confirm a viewer installation for a first time). However, you can use application “RMXF Watcher” to watch videos (look instructions below video window).
+<BR>
+<BR>You can switch language to English on each of pages pressing “English” button at top-right corner of the page.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;48</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Help</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:lutick66@mail.ru">Алина</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 26, 2004  13:52:43</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+ а как скачать концерт "мелодрама-пати"?<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;49</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Алина</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 26, 2004  23:58:24</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Это рок-фестиваль "Новое поколение уральского рока" 15 февраля в "Буревестнмке"?
+<BR>Записи уже подготовлены и главным образом выложены (пока -- в "сыром виде") для просмотра на сайте.
+<BR>Заходите, смотрите!
+<BR>И отзывайтесь -- надо ли это кому.
+<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;50</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Трансляция Спартакиады учащихся России</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:sil89@rambler.ru">Игорь</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 29, 2004  14:36:55</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Будет ли транслироваться турнир по хоккею проходящий в г.Челябинске,если да,то пожалуйста,сообщите время трансляций. <BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;51</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Трансляция Спартакиады учащихся России</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Март 04, 2004  23:09:56</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Мы этого не знаем.
+<BR>К нам обращений по проведению трансляции этого турнира не поступало.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;52</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Ekaterinberg children's Festival videos</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:erdenmgul@yahoo.com">gulsen erden</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>April 06, 2004 at 19:13:03</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+I have a problems with wideos.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;53</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>нужна помощ!</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:ora@lubof.ru">Жора</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Сентябрь 28, 2004  18:11:23</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Никак не удается посмотреть бокс. 
+<BR>В "Опере" просто не видно никаких кнопок-ссылок, а Internet Explorer вылетает в с ошибкой в процессе загрузки. <BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;54</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Обращение к Жоре</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Сентябрь 30, 2004  11:17:05</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Жора!
+<BR>Пожалуйста, пришлите нам более подробное описание ошибки: в какой именно момент "вылетает" Internet Explorer и какое именно сообщение об ошибке выдается. 
+<BR>Если вы ответите, мы постараемся разобраться и помочь.
+<BR>Если не выдаются кнопки -- проблема с обработкой JavaScript.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;55</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Невозможно посмотреть видее-файл</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:flashfm@yandex.ru">Flash</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Октябрь 30, 2004  00:57:58</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+1) IE 6.0 при установленном на WinXP втором сервис-паке блокирует установку .cab файла (видимо с ActiveX компонентами)
+<BR>2) При попытке посмотреть видео через Watcher, последний показывает сообщение об ошибке "Error: No such channel path"
+<BR>
+<BR>p.s.: а нельзя просто сделать ссылки на видео-файлы? Гораздо удобнее было бы их скачать а потом спокойно посмотреть.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;56</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>УРА</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:Sergtr81@mail.ru">Roma</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Ноябрь 19, 2004  14:11:34</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Привет, отличный сайт, очень содержательный и грамотно продуманный, лично я нашел 
+<BR>здесьмного интересного и полезного!!!!
+<BR>Спасибо вам, ребята!
+<BR>
+<BR><a href="http://teamcorps.com/">http://teamcorps.com/</a><BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;57</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Hello</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:Nicktr82@mail.ru">Serg</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Ноябрь 23, 2004  15:11:42</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Бродил по Инету и случайно наткнулся на ваш сайт,
+<BR>понравилось, проделанно много полезной работы,
+<BR>на благо интернетовского человечества
+<BR>и не только,
+<BR>в общем так держать! Побольше бы таких сайтов!<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;58</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re:УРА</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Декабрь 05, 2004  14:22:06</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Roma и Serg,
+<BR>Спасибо за добрые слова!<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;59</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re:Невозможно посмотреть видее-файл</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Декабрь 05, 2004  14:35:45</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Следует либо согласиться с установкой ActiveX элемента для IE, либо использовать Watcher.
+<BR>Приведенное Вами сообщение Watcher'a означает, что ему указана для просмотра несуществующая запись.
+<BR>
+<BR>Видеофайлы недоступны в связи с тем, что они либо продаются, либо дюарятся по индивидуальным договоренностям. Для записей некоторых мероприятий организаторы этих мероприятий или участвовавшие в них лица категорически возражают против передачи файлов.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;60</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Любовь</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:philiptr@mail.ru">Philip</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Декабрь 06, 2004  13:42:47</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Всем привет!
+<BR>Я Филип Зиберман - доктор экономических и технических наук,
+<BR>со всей ответственностью заявляю - ОЧЕНЬ ИНТЕРЕСНЫЙ САЙТ!<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;61</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>27</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Вячеслав</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Декабрь 30, 2004  03:45:17</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Он хотел сказать, что глупо подгонять веб-сайт под IE. Есть много хороших людей, пользующихся другими хорошими броузерами.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;62</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re: 27</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Декабрь 31, 2004  10:19:34</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Этот сайт не содержит никаких элементов, "заточенных" на какие-то особенности MS IE. Предполагается, однако, что компьютер -- на процессоре, совместимом с Intel, и с операционной системой Windows.
+<BR>Если используемый для веб-навигации браузер поддерживает COM-технологию и в нем разрешен запуск ActiveX-элементов, то окно просмотра видео будет "врезано" в веб-страницу. В противном случае инсталлируйте приложение Watcher и запускайте просмотр через Watcher -- видео откроется в отдельном окне.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;63</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Здравствуйте!</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:admin@studs.ru">Darau</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>January 09, 2005 at 01:55:16</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте!
+<BR>Вы бы ни хотели добавить ссылку на мой сайт? 
+<BR>Он посвящён общению через web камеру…
+<BR>www.webcam.studs.ru
+<BR>
+<BR>Был бы очень признателен!<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;64</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>RE: Здравствуйте!</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Январь 19, 2005  23:31:38</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте!
+<BR>Ссылку добавили. Жаль только, что из изучения вашего сайта осталось неясным, кто его "ведет".<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;65</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>ПО</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Alexander Kirillin</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 24, 2005  03:33:37</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Возможно ли Ваше ПО использовать на кластерных мультиОСовых системах для обеспечения потоковой трансляции? Собственно интересуюсь для нашего клиента-телекомпании.
+<BR>
+<BR>Александр Кириллин
+<BR>Интернет-агентство "Web Otdel"
+<BR><a href="http://www.webotdel.ru/">http://www.webotdel.ru/</a><BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;66</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re: ПО</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 25, 2005  17:41:30</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Александр!
+<BR>Мы сейчас поставляем законченный блок для потоковой трансляции,
+<BR>в том числе -- уровня вещательного телевидения. Блок не содержит жесткого диска,
+<BR>открытого на запись.
+<BR>С помощью этого блока можно проводить как интернет-видеотрансляции
+<BR>через веб-сайт (например, для IP-телевидения), так и применять его
+<BR>как "интернет-удлинитель" при передаче сигнала на телецентр.
+<BR>
+<BR>В одном из вариантов этот потоковый сервер используется
+<BR>в составе портативного телерепортажного спутникового комплекса .
+<BR>
+<BR>Блок можно использовать и как составную часть
+<BR>других систем -- в том числе -- и кластерных мультиОСовых :-).
+<BR>
+<BR>Наши программные средства отдельно не поставляются.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;67</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Cъемки</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:goo84@mail.ru">Ольга</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Февраль 25, 2005  16:50:12</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте!
+<BR>Учвствовали с Вами вместе на выставке на Громова "Офис-2005", где вы провели съемки
+<BR>Хотелось бы увидеть себя на вашем сайте)
+<BR>С уважением,компания "Технологии чистоты"<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;68</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Офис-2005</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV.uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Март 15, 2005  23:08:59</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Ольга,
+<BR>Записи с выставки на Громова "Офис-2005" размещены в видеоархиве -- папка 
+<BR><a href="http://webtv.uran.ru/ru/records/?dir=/2Politics/9Z017_Office_2005.">http://webtv.uran.ru/ru/records/?dir=/2Politics/9Z017_Office_2005.</a><BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;69</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>40 лет ССО Вега</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:popov_demon@mail.ru">Попов Алексей(к-с-р ССО Вега)</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Апрель 01, 2005  10:19:57</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здраствуйте! Случайно зашел на этот сайт, и посмотрел видеоролик со Знаменки 2002, где выступал ССО Вега. Значит, наверно, сюда это выложил старик ССО Вега. У нас сейчас идет подготовка к юбилею. Хотелось бы чтобы вы помогли нам с написанием истории, т.е. рассказали нам о годах, когда вы были бойцом ССО Вега. Все это пойдет в книгу, которую мы планируем выпустить к нашему юбилею. 
+<BR>Если у вас будет свободное время, то позвоните или напишите мне. Желательно это сделать как можно скорее, лучше в первых числах апреля.
+<BR>Вот мой телефон: 8-906-85-64-65-0. <BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;70</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re: 40 лет ССО Вега</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Апрель 03, 2005  16:23:48</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Нет, сюда это выложил не старик из "Веги". 
+<BR>Мы отсняли концерт на "Знаменке-2002", запись "Веги" -- одна из многих.
+<BR>Если Вас интересует эта видеозапись "Веги" -- мы ее подарим.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;71</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>WEBCAMTV</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:kseor@inbox.lv">Kseor</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>April 08, 2005 at 21:41:09</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Kak sozdatj WebCAM tv????<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;72</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re: Kseor</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Апрель 11, 2005  13:42:52</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Все зависит от того, какой уровень качества Вам достаточен и какими средствами Вы располагаете.
+<BR>Самое простое -- приобрести в магазине USB веб-камеру за $20 и использовать приложенные
+<BR> к ней программные средства или какие-то бесплатные, или входящие в состав операционной системы.
+<BR>Если уровень качества для Вас весьма существенен, и определенные денежные средства имеются, то можете приобрести нашу систему Vidicom.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;73</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Успехов вам!!!</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:sasha564@yandex.ru">Sasha</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Апрель 14, 2005  23:04:29</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Здравствуйте!
+<BR>Очень поравился ваш сайт! Успехов вам!
+<BR>Будет время - заходите к нам:  www.mega-intell.ru<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;74</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Конференция иммунология</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:borele@yndex.ru">Елена</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Апрель 17, 2005  16:56:31</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Большое спасибо за конференцию, слушала с большим удовольствием, все воскресенье, за одно и убралась. Если возможно записывать (демонстрировать) все проходящие конференции, т.к. попасть на них трудновато. 
+<BR>Спасибо. Елена. <BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;75</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Цены</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:rust71@mail.ru">Рустем</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Август 24, 2005  17:29:46</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Гулял по сайту но не нашёл как можно купить Вашу систему Vidicom и по какой цене. или она не продаётся?<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;76</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Цены</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Август 27, 2005  01:17:55</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Уважаемый Рустам!
+<BR>Для получения информации о ценах и приобретения системы следует связаться с нами по указанному на сайте адресу<a href="mailto:webTV@uran.ru.">webTV@uran.ru.</a>
+<BR>Цены зависят от конкретной конфигурации системы.
+<BR>Описание системы дается на сайте www.Vidicom.ru.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;77</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>ПО</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:aslof@mail.ru">Лобанов Леонид</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>August 27, 2005 at 03:44:05</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+> Наши программные средства отдельно не поставляются.
+<BR>А почему? С чем связано такое ограничение?
+<BR>__
+<BR>Фильмы <a href="http://www.findfilm.ru/">http://www.findfilm.ru/</a><BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;78</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>ПО</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Сентябрь 04, 2005  01:35:10</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Уважаемый Леонид!
+<BR>
+<BR>Вообще-то мы слишком категорично ответили. На самом деле по особому заказу мы поставляем и программные средства для офисного компьютера (с необходимым для их работы дополнительным аппаратным блоком), но заказчики с такой просьбой бывают весьма редко.
+<BR>
+<BR>Если интересно, пример такого заказчика -- ИТАР-ТАСС. Причина их просьбы -- в потребности эксплуатации систем с разной спецификой (напр., с вычислителем рекордной производительности для передачи стационарным устройством в телевизионном стандарте, либо с вычислителем минимальных веса и габаритов для "командировочного" варианта), да плюс к тому парк оборудования у них достаточно часто меняется. При этом существенный  фактор -- наличие там достаточно квалифицированного персонала.
+<BR>
+<BR>А в чем причина вашего желания иметь версию, устанавливаемую на офисный компьютер? Если вы полагаете, что сэкономите деньги за счет использования уже имеющегося оборудования, то имейте в виду, что приобретение наших "мобильных" программных средств обойдется даже несколько дороже приобретения законченного блока.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;79</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>просмотр в IE 6</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:ASF@asrt.com">Максим</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Ноябрь 02, 2005  04:44:15</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Ваш ActiveX control подписан тестовым сертификатом; любой Windows XP SP2 блокирует его установку. Я лично посмотреть не смог.
+<BR>
+<BR>Успехов.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;80</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re: просмотр в IE 6</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Ноябрь 02, 2005  21:06:00</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Максим,
+<BR>
+<BR>Сертификат оформляется.
+<BR>
+<BR>Заметим, что просматривать видео можно не только через MS Internet Explorer, но и без MS IE, с помощью просмотрщика Watcher -- как это описывается под окошком просмотра видео (на красном прямоугольнике).
+<BR>Цитирую: 
+<BR>
+<BR><<При использовании таких интернет-браузеров, как "Netscape Navigator", "Mozilla", "Opera" ни видео, ни звук на сайте не появятся...
+<BR>В этом случае можно использовать приложение "Vidicom/Watcher". Для его загрузки и инсталляции нажмите здесь. Для просмотра/прослушивания с помощью "Vidicom-Watcher" нажмите на кнопку канала.
+<BR>Если приложение не запустится -- поместите ссылку в "буфер обмена" (командой "Copy") и запустите приложение "Vidicom-Watcher" вручную через главное меню MS Windows.>><BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;81</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re: просмотр в IE 6</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Ноябрь 05, 2005  13:24:36</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Максим,
+<BR>
+<BR>Для удобства пользователей дизайн/интерфейс для выбора способа просмотра изменен -- как на базовом сайте, так и для канала ИТАР-ТАСС-Урал.
+<BR>
+<BR>Возможность просмотра 2-мя способами теперь показана более явно -- предлагается выбор радиокнопками из 2-х альтернатив: просмотр в веб-странице элементом ActiveX и просмотр в отдельном окне нашим автономным просмотрщиком Watcher.
+<BR>
+<BR>Более очевидным стал способ установки автономного просмотрщика -- кликом на слове "Viewer" под окном просмотра (рядом с радиокнопкой).
+<BR>
+<BR>Добавлена возможность ручной инсталляции ActiveX-элемента для просмотра (если настройки MS IE "не пускают") -- кликом на слове "Window" под окном просмотра (рядом с радиокнопкой).
+<BR>
+<BR>Спасибо за комментарии, которые помогают сделать нашу систему лучше.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;82</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>плохое качество звука...все равно, что нет его...</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:mpegfan@yandex.ru">Юра</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Март 03, 2006  13:27:09</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Решил посмотреть Научно-практическую конференцию
+<BR>"Инновации в сфере промышленной и технологической автоматизации" 
+<BR>качество оказвлось очень низкое, видео- еще ладно, оно вообще в качестве оформления практически, но вот звук очень плохой и понять ничего невозможно :(  Т.е. что она есть , что её нет... я понимаю, что битрейт поменьше пытались сделать, неудачно микрофоны расположили, но просто напрасно сделанная работа получилась.
+<BR>
+<BR>ЗЫ очень плохо, что у вас нет режима закачки файлов...очень плохо, перемотать нельзя, а это одно из самых важных преимуществ у цифрового видео и сильная привязка к скорости канала.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;83</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>АртПром</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:levedev06@mail.ru">Олег</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>March 11, 2006 at 13:34:47</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Привет.
+<BR>Сайт просто супер!!! Наконец-то появилось много всего нового.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;84</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Программное обеспечение</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Malygina Anna</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Май 17, 2006  01:51:17</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+Какие системы (ОС) поддерживает Ваш Видео-интернет-коммуникатор? 
+<BR>Возможно ли синхронное использование на нескольких системах?
+<BR>
+<BR>Заранее благодарны за ответ
+<BR>Малыгина Анна
+<BR>Студия веб-дизайна 'Obsudim'
+<BR><a href="http://obsudim.ru">http://obsudim.ru</a><BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;85</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Re: Malygina Anna: Программное обеспечение</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:webTV@uran.ru">webTV</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Май 20, 2006  16:29:46</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+ПО поддерживает только ОС семейства MS Windows.
+<BR>Это обусловлено отсутствием коммерческого спроса на версии для других ОС и анализом посещаемости сайтов. Вот цифры за год по сайту webTV.uran.ru:
+<BR>
+<BR>1 Windows 99,18 % 
+<BR>2 Linux    0,42 % 
+<BR>3 Mac OS   0,24 % 
+<BR>4 Прочие   0,12 % 
+<BR>5 FreeBSD  0,02 % 
+<BR>
+<BR>Сервер обеспечивает передачу на неограниченное количество приемников по протоколам TCP, UDP unicast, UDP multicast.
+<BR>
+<BR>Прием возможен как ActiveX-клиентам, так и отдельным приложением Vidicor-Watcher.<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#9495A9>
+<TABLE border=0 cellspacing=0 cellpadding=5 width=100%>
+<TR><TD bgcolor=#767787><TABLE border=0 cellspacing=0 cellpadding=0 width=100%>
+<TR>
+<TD align=center width=1%><B><FONT color=#DFDFDF>№&nbsp;86</FONT><B>&nbsp;</TD>
+<TD align=right width=1%><B><FONT color=#000000>Subject:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>123</FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>From:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000><A href="mailto:123">123</A></FONT></TD>
+</TR><TR><TD>&nbsp;</TD>
+<TD align=right><B><FONT color=#000000>Date:</FONT></B>&nbsp;</TD>
+<TD align=left><FONT color=#000000>Июнь 07, 2007  09:24:50</FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+<TR><TD bgcolor=#A2A3B9><FONT color=#000000>
+mypost<BR></FONT></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</TD></TR></TABLE>
+[<A href="?full">All messages</A>]
+
+
+<A name="#postmsg"><H3>Send new message</H3><A>
+<P>
+
+<SCRIPT language="JavaScript"><!--
+function checkForm(form)
+{
+  if (form.name.value == '')
+  {
+    alert("You must specify your name!");
+    form.name.focus();
+    return false;
+  }
+  if (form.subj.value == '')
+  {
+    alert("You must specify message subject!");
+    form.subj.focus();
+    return false;
+  }
+  if (form.body.value == '')
+  {
+    alert("You must specify message body!");
+    form.body.focus();
+    return false;
+  }
+  return true;
+}
+//-->
+</SCRIPT>
+
+<FORM method=POST action="/cgi-bin/gb_ru/gbpostx.pl" onSubmit="return checkForm(this)">
+<TABLE border=0>
+<TR><TD><B>Name:</B></TD><TD><INPUT type=text name="name" size=50></TD></TR>
+<TR><TD><B>E-mail:</B></TD><TD><INPUT type=text name="mail" size=50></TD></TR>
+<TR><TD><B>Subj:</B></TD><TD><INPUT type=text name="subj" size=50></TD></TR>
+<TR><TD><B>Type only red LETTERS "123<font color=red>7mypost</font>321":</td>
+<TD><INPUT type=text name="pass" size=10>
+</tr> 
+<TR><TD colspan=2>
+<B>Message:</B><BR>
+<TEXTAREA COLS=75 ROWS=15 name="body"></TEXTAREA>
+</TD></TR>
+<TR><TD colspan=2>
+<INPUT type=submit value="Send">
+<INPUT type=reset value="Clear">
+</TD></TR>
+</TABLE>
+</FORM>
+
+<br>
+
+<table border="0" cellpadding="2" width="100%">
+  <tr>
+    <td width="30%" align="left" valign="top">
+      <a href="/en/interSpeed.htm">
+        <img name="speed" alt="Connection Speed" border=0
+          onMouseOver="imgOver(this)"
+          onMouseOut ="imgOut (this)"
+          onMouseDown="imgDown(this)"
+          onMouseUp  ="imgUp  (this)"></a>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <a href="/en/index.htm">
+        <img name="home" alt="Home" border=0
+          onMouseOver="imgOver(this)"
+          onMouseOut ="imgOut (this)"
+          onMouseDown="imgDown(this)"
+          onMouseUp  ="imgUp  (this)"></a>
+    </td>
+    <td width="30%" align="right" valign="top">
+      <a onClick="window.history.go(-1)">
+       <img name="back" alt="Back" border=0
+          onMouseOver="imgOver(this)"
+          onMouseOut ="imgOut (this)"
+          onMouseDown="imgDown(this)"
+          onMouseUp  ="imgUp  (this)"></a>
+    </td>
+  </tr>
+</table>
+
+
+<hr>
+<table border="0" cellpadding="2" width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top"> 
+      <font color="#800040" size="3">
+      <a href="/vslRu/index.htm" target="_blank">
+      Research&nbsp;Center&nbsp;of&nbsp;Multimedia</a>
+      <br><a href="http://www.imm.uran.ru" target="_blank">
+      IMM</a>&nbsp;<a href="http://www.uran.ru" target="_blank">UrO</a>&nbsp;<a href="http://www.ras.ru" target="_blank">RAS</a>
+      <p>&copy;
+      <a href="http://www.Vidicor.com" target="_blank">
+      Research-and-Development&nbsp;Center
+      <br>"Vidicor Ltd."
+      </a>
+      </font>
+    </td>
+
+    <td align="center" valign="center">
+
+<script language="JavaScript"><!--
+hit=0;
+  if (hit)
+  {
+    document.write("<CENTER><TABLE><TR><TD><B>Visitor: <FONT size=4 color=#000080>");
+    document.write(session);
+    document.write("</FONT></B></TD></TR></TABLE></CENTER>");
+  }
+  //-->
+</script>
+
+<p>
+
+<center>
+<!-- HotLog -->
+
+<script language="javascript">
+hotlog_js="1.0";
+hotlog_r=""+Math.random()+"&s=313645&im=104&r="+escape(document.referrer)+"&pg="+
+escape(window.location.href);
+document.cookie="hotlog=1; path=/"; hotlog_r+="&c="+(document.cookie?"Y":"N");
+</script>
+<script language="javascript1.1">
+hotlog_js="1.1";hotlog_r+="&j="+(navigator.javaEnabled()?"Y":"N")
+</script>
+<script language="javascript1.2">
+hotlog_js="1.2";
+hotlog_r+="&wh="+screen.width+'x'+screen.height+"&px="+
+(((navigator.appName.substring(0,3)=="Mic"))?
+screen.colorDepth:screen.pixelDepth)</script>
+<script language="javascript1.3">hotlog_js="1.3"</script>
+<script language="javascript">hotlog_r+="&js="+hotlog_js;
+document.write("<a href='http://click.hotlog.ru/?313645' target='_top'><img "+
+" src='http://hit13.hotlog.ru/cgi-bin/hotlog/count?"+
+hotlog_r+"&' border=0 width=88 height=31 alt=HotLog></a>")
+</script>
+<noscript>
+<a href=http://click.hotlog.ru/?313645 target=_top><img src="http://hit13.hotlog.ru/cgi-bin/hotlog/count?s=313645&im=104" border=0 
+ width=88 height=31 alt="HotLog"></a>
+</noscript>
+
+<br>
+
+<!-- KMindex -->
+
+<script type="text/javascript"><!--
+document.write('<a href="http://click.kmindex.ru/?uid=60084" target=_top><img '+
+'src="http://counting.kmindex.ru/1.gif?uid=60084&r='+escape(document.referrer)+
+'&'+Math.random()+'" width=88 height=31 border=0 alt=KMindex></a>')
+//--></script>
+
+<br>
+
+<!-- MyCounter -->
+
+<SCRIPT language="JavaScript"><!--
+var j=0,d=document,s=screen,h='mycounter.com.ua/'
+//--></SCRIPT>
+<SCRIPT language="JavaScript1.1"><!--
+j=1//--></SCRIPT><SCRIPT language="JavaScript1.2"><!--
+j=2//--></SCRIPT><SCRIPT language="JavaScript1.3"><!--
+j=3//--></SCRIPT><SCRIPT language="JavaScript"><!--
+d.cookie="s=1;path=/";d.write('<A href="http://'+h+
+'stats/?id=3303" target=_blank><IMG src="http://get.'+
+h+'counter.php?id=3303&w='+escape(window.location.href)+
+((typeof(s)=='undefined')?'':'&s='+s.width+'x'+s.height+'x'+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+
+(d.referrer?'&r='+escape(d.referrer):'')+
+(d.cookie?'&c=1':'')+'&j='+j+(navigator.javaEnabled()?'&e=1':'')+
+'" alt="MyCounter - Ваш счётчик" border=0 width=88 height=61></A>')
+//--></SCRIPT>
+<NOSCRIPT><A target="_blank"
+href="http://mycounter.com.ua/stats/?id=3303"><IMG
+src="http://get.mycounter.com.ua/counter.php?id=3303" border=0
+width=88 height=61 alt="MyCounter - Ваш счётчик"></A></NOSCRIPT>
+<!-- End MyCounter code -->
+
+
+
+</center>
+
+<!-- SpyLOG f:0211 -->
+<script language="javascript"><!--
+Mu="u5069.17.spylog.com";Md=document;Mnv=navigator;Mp=0;
+Md.cookie="b=b";Mc=0;if(Md.cookie)Mc=1;Mrn=Math.random();
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&c="+Mc+"&t="+Mt;
+if(self!=top){Mfr=1;}else{Mfr=0;}Msl="1.0";
+//--></script><script language="javascript1.1"><!--
+Mpl="";Msl="1.1";Mj = (Mnv.javaEnabled()?"Y":"N");Mz+='&j='+Mj;
+//--></script><script language="javascript1.2"><!-- 
+Msl="1.2";Ms=screen;Mpx=(Mn==0)?Ms.colorDepth:Ms.pixelDepth;
+Mz+="&wh="+Ms.width+'x'+Ms.height+"&px="+Mpx;
+//--></script><script language="javascript1.3"><!--
+Msl="1.3";//--></script><script language="javascript"><!--
+My="";My+="<a href='http://"+Mu+"/cnt?cid=506917&f=3&p="+Mp+"&rn="+Mrn+"' target='_blank'>";
+My+="<img src='http://"+Mu+"/cnt?cid=506917&"+Mz+"&sl="+Msl+"&r="+escape(Md.referrer)+"&fr="+Mfr+"&pg="+escape(window.location.href);
+My+="' border=0 width=88 height=31 alt='SpyLOG'>";
+My+="</a>";Md.write(My);//--></script><noscript>
+<a href="http://u5069.17.spylog.com/cnt?cid=506917&f=3&p=0" target="_blank">
+<img src="http://u5069.17.spylog.com/cnt?cid=506917&p=0" alt='SpyLOG' border='0' width=88 height=31 >
+</a></noscript>
+<!-- SpyLOG -->
+</p>
+
+    </td>
+
+    <td width="50%" align="right" valign="top"> 
+      <b>
+      Email: <a href="mailto:webtv@uran.ru">webtv@uran.ru</a>
+      <p>Contact Phones: (+7) (343) 372-0640.
+      <br>Fax (+7) (343) 349-1885,
+      </b> 
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<script language="JavaScript"><!--
+ function setButtons()
+ {
+  imagesRoot = "images";
+  setButtonImages("russian", 2, 1, 3);
+  setButtonImages("back",    2, 1, 3);
+  setButtonImages("home",    2, 1, 3);
+  setButtonImages("speed",   2, 1, 3);
+ }
+//-->
+</script>
+
+</BODY>
+</HTML>

@@ -1,0 +1,2139 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Directory of WebTV videos</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="style1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webcam.imm.uran.ru", "http://webtv.uran.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+<SCRIPT language='JScript' src='rmxfrecv.js'></SCRIPT>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+
+<!-- убрано лишнее для ИТАР-ТАСС -->
+<hr>
+ <h2 align="center">
+        <font color=#2b0079>
+
+Наука и образование
+</font>
+</h2>
+
+<hr>
+
+<div align="center">
+
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=6&rec=11&var=1'><img src='pics/Visual.jpg' alt="" border="0" title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+7&nbsp;кбит/с, 15&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=6&rec=11&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl0.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl0.1"  border="0"  title="360x288&nbsp;пикс, 1.0&nbsp;к/с, 30+7&nbsp;кбит/с, 15&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=6&rec=11&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl0.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl0.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 511+63&nbsp;кбит/с, 234&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=6&rec=11&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl0.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl0.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 245+128&nbsp;кбит/с, 664&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Семинар "Научно-техническая визуализация" НИВЦ МГУ<br>
+2001-2003<br>
+(запись с экрана)
+
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.11.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=7&lng=ru'>
+	<img src='pics/C1VENS.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=7&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir0','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir0','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir0"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Компьютерное моделирование<br><br><br><br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=11&lng=ru'>
+	<img src='pics/11p1.gif' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=11&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir1','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir1','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir1"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Уральский государственный технический университет УГТУ-УПИ<br><br><br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=47&lng=ru'>
+	<img src='pics/Stability.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=47&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir2','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir2','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir2"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+"Устойчивость движения"<br>
+Фильм об Уральской школе математики<br><br><br><br>
+<br>    </DIV>
+<div align="center">
+<br><br></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=15&lng=ru'>
+	<img src='pics/rtf.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=15&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir3','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir3','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir3"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Празднование пятидесятилетия Радиотехнического факультета УГТУ-УПИ<br>    </DIV>
+<div align="center">
+<br><span class="style1">26.02.2002</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=31&lng=ru'>
+	<img src='pics/Kras_5.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=31&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir4','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir4','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir4"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Беседы академика Н.Н.Красовского<br>    </DIV>
+<div align="center">
+<br><span class="style1">26.03.2002</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=17&lng=ru'>
+	<img src='pics/profsoiusS.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=17&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir5','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir5','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir5"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Пресс-конференция профсоюзной организации работников УрО РАН<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">03.07.2002</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=18&lng=ru'>
+	<img src='pics/Osipov.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=18&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir6','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir6','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir6"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Празднование 70-летия академической науки на Урале
+<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">14.10.2002</span> - <span class="style1">16.10.2002</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=24&lng=ru'>
+	<img src='pics/RFBR.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=24&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir7','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir7','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir7"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Научно-практическая конференция,<br> посвященная 10-летию РФФИ<br>    </DIV>
+<div align="center">
+<br><span class="style1">05.11.2002</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=33&lng=ru'>
+	<img src='pics/berd.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=33&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir8','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir8','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir8"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Региональная молодежная школа-конференция <br>Екатеринбург <br>  <br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">27.01.2003</span> - <span class="style1">31.01.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=25&lng=ru'>
+	<img src='pics/sid-mem.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=25&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir9','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir9','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir9"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Всероссийская конференция, посвященная 70-летию 
+академика А.Ф.Сидорова<br>    </DIV>
+<div align="center">
+<br><span class="style1">03.02.2003</span> - <span class="style1">07.02.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=29&lng=ru'>
+	<img src='pics/faddeev.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=29&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir10','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir10','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir10"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Доклад академика Л.Д.Фаддеева<br>
+"Узлы и солитоны в трехмерном пространстве"<br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">12.02.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=27&lng=ru'>
+	<img src='pics/vruchCher.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=27&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir11','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir11','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir11"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Вручение Демидовской премии 2002<br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">13.02.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=35&lng=ru'>
+	<img src='pics/Kuropatenko.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=35&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir12','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir12','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir12"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Cессия Объединенного Ученого совета УрО РАН по математике
+и информатике <br><br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">08.04.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=36&lng=ru'>
+	<img src='pics/Nach1S.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=36&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir13','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir13','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir13"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Общее собрание Уральского отделения РАН <br><br><br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">18.04.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=37&lng=ru'>
+	<img src='pics/marchuk.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=37&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir14','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir14','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir14"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Доклад академика Г.И.Марчука<br>"Анализ сложных систем"<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">27.05.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=40&lng=ru'>
+	<img src='pics/Dissertation-VVP.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=40&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir15','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir15','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir15"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Защита докторской диссертации<br>В.В.Прохорова<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">04.06.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=46&lng=ru'>
+	<img src='pics/Zaschita.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=46&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir16','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir16','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir16"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Защита докторской диссертации<br>Л.Б.Соколинского<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">04.06.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=38&lng=ru'>
+	<img src='pics/SubbotinaS.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=38&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir17','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir17','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir17"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Защита докторской диссертации<br>Н.Н.Субботиной<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">18.06.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=39&lng=ru'>
+	<img src='pics/uro-70.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=39&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir18','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir18','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir18"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Научно-практическая конференция по итогам конкурса<br>
+РФФИ &ndash; "Урал" 
+2001 &ndash; 2003<br>  
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">31.10.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=41&lng=ru'>
+	<img src='pics/osipov-1.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=41&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir19','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir19','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir19"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Общее собрание Российской академии наук<br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">17.12.2003</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=49&lng=ru'>
+	<img src='pics/Chabirov.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=49&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir20','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir20','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir20"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Региональная молодежная школа-конференция <br>Екатеринбург<br><br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">26.01.2004</span> - <span class="style1">30.01.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=48&lng=ru'>
+	<img src='pics/sobranie.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=48&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir21','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir21','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir21"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Вручение Демидовской премии 2003 года <br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">06.02.2004</span> - <span class="style1">30.11.2000</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=53&lng=ru'>
+	<img src='pics/1111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=53&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir22','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir22','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir22"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Объединенный Ученый совет УрО РАН
+по  математике, механике и информатике 
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">14.04.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=54&lng=ru'>
+	<img src='pics/11111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=54&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir23','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir23','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir23"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Общее собрание Уральского отделения РАН
+<br>Актовый зал ИФМ 
+<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">16.04.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=66&lng=ru'>
+	<img src='pics/111111pic_02.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=66&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir24','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir24','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir24"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Сессия молодых ученых <br>
+в ИММ УрО РАН <br> <br><br>    </DIV>
+<div align="center">
+<br><span class="style1">12.05.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=67&lng=ru'>
+	<img src='pics/111111111111pic_01.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=67&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir25','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir25','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir25"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Научный доклад В.Л.Авербуха
+ <br>"Cистемы компьютерной визуализации "<br>    </DIV>
+<div align="center">
+<br><span class="style1">13.05.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=55&lng=ru'>
+	<img src='pics/111pic_06.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=55&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir26','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir26','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir26"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Заседание Президиума Уральского отделения РАН
+<br>Екатеринбург <br><br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">27.05.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=56&lng=ru'>
+	<img src='pics/111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=56&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir27','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir27','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir27"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Объединенный Иммунологический Форум
+<br>Екатеринбург
+<br>ККТ "Космос" <br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">31.05.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=68&lng=ru'>
+	<img src='pics/1111111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=68&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir28','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir28','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir28"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+УПИ - 175000 выпускников! <br><br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">19.06.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=61&lng=ru'>
+	<img src='pics/111111111pic_01.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=61&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir29','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir29','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir29"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Уральская государственная <br> архитектурно-художественная академия:
+<br>Защита дипломов<br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">22.06.2004</span> - <span class="style1">23.06.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=69&lng=ru'>
+	<img src='pics/11111111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=69&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir30','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir30','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir30"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Заседание 
+<br>Ученого совета<br>
+Уральского госуниверситета
+<br><br>    </DIV>
+<div align="center">
+<br><span class="style1">06.09.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=70&lng=ru'>
+	<img src='pics/111111111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=70&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir31','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir31','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir31"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+XIX съезд <br>
+Физиологического общества <br>
+им. И.П.Павлова <br> 
+Екатеринбург <br>
+ККТ "Космос" <br>    </DIV>
+<div align="center">
+<br><span class="style1">19.09.2004</span> - <span class="style1">24.09.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=76&lng=ru'>
+	<img src='pics/11111111111111picDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=76&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir32','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir32','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir32"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Празднование 80 летия <br>
+академика Н.Н.Красовского <br>
+<br>
+Актовый зал <br>
+ИММ УрО РАН <br>    </DIV>
+<div align="center">
+<br><span class="style1">07.10.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=77&lng=ru'>
+	<img src='pics/pic_50_07.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=77&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir33','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir33','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir33"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+ОУС УрО РАН по ММИ: <br>
+Отчетная конференция <br>
+по проектам РФФИ-Урал<br>
+Актовый зал <br>
+ИММ УрО РАН <br>    </DIV>
+<div align="center">
+<br><span class="style1">18.10.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=85&lng=ru'>
+	<img src='pics/infokom_71_01.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=85&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir34','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir34','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir34"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+IV международная выставка-форум "ИнфоКом-2004"
+
+<br>  <br>    </DIV>
+<div align="center">
+<br><span class="style1">19.10.2004</span> - <span class="style1">21.10.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=80&lng=ru'>
+	<img src='pics/invest_63_03.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=80&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir35','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir35','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir35"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Третья инновационная конференция.
+Первый Евро-Азиатский форум инвестиций и инноваций<br> 
+"Инвест-проектэкспо 2004"
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">26.10.2004</span> - <span class="style1">28.10.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=81&lng=ru'>
+	<img src='pics/pic_nitsmt.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=81&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir36','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir36','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir36"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Сравнение<br>
+работы серверов <br>
+Windows Media (Microsoft) и  <br>
+Hulmer-U <br>
+(НИЦ МТ ИММ УрО РАН)<br>    </DIV>
+<div align="center">
+<br><span class="style1">29.10.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=82&lng=ru'>
+	<img src='pics/picDir_23.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=82&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir37','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir37','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir37"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+"Фундаментальные исследования <br>
+и региональные конкурсы РФФИ" <br>
+Дом Правительства <br>    </DIV>
+<div align="center">
+<br><span class="style1">29.10.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=84&lng=ru'>
+	<img src='pics/picDirc60.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=84&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir38','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir38','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir38"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Поздравление <br>
+Председателя УрО РАН <br>
+академика В.А.Черешнева <br>
+c 60-летием <br>
+Президиум УрО РАН <br>    </DIV>
+<div align="center">
+<br><span class="style1">29.10.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=86&lng=ru'>
+	<img src='pics/picDirKOSK.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=86&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir39','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir39','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir39"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+"Приборостроение. <br>
+Электроника. <br>
+Электротехника - 2004 "<br>
+КОСК "Россия" <br>
+Екатеринбург <br>    </DIV>
+<div align="center">
+<br><span class="style1">09.11.2004</span> - <span class="style1">12.11.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=87&lng=ru'>
+	<img src='pics/pic_07_PR.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=87&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir40','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir40','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir40"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Заседание Президиума <br>
+Российской академии наук<br>
+<br><br>
+г.Москва <br>    </DIV>
+<div align="center">
+<br><span class="style1">01.12.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=90&lng=ru'>
+	<img src='pics/rect_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=90&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir41','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir41','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir41"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Заседание <br>
+Совета ректоров<br>
+Свердловской области<br>
+Зал Ученого совета УрГУ <br>
+г.Екатеринбург <br>    </DIV>
+<div align="center">
+<br><span class="style1">22.12.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=91&lng=ru'>
+	<img src='pics/dirMoscow.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=91&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir42','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir42','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir42"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Заседание Совета РАН по <br>
+высокопроизводительным <br>
+технологиям вычислений<br>
+г.Москва, Президиум РАН, <br>
+г.Екатеринбург, ИММ<br>    </DIV>
+<div align="center">
+<br><span class="style1">23.12.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=88&lng=ru'>
+	<img src='pics/telemostNNK.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=88&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir43','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir43','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir43"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Видеомост между Президентом РАН <br>акад.
+ Ю.С.Осиповым и <br>акад. Н.Н.Красовским
+<br>    <br>    </DIV>
+<div align="center">
+<br><span class="style1">23.12.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=89&lng=ru'>
+	<img src='pics/salut_ng.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=89&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir44','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir44','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir44"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Новый год в ИММ УрО РАН<br><br><br><br>    </DIV>
+<div align="center">
+<br><span class="style1">29.12.2004</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=92&lng=ru'>
+	<img src='pics/picDirP50.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=92&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir45','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir45','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir45"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Празднование <br>
+50-летнего юбилея <br>
+В.В.Прохорова <br>
+Актовый зал <br>
+ИММ УрО РАН <br>    </DIV>
+<div align="center">
+<br><span class="style1">28.01.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=93&lng=ru'>
+	<img src='pics/picDir67.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=93&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir46','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir46','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir46"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+36 Молодежная <br>
+школа-конференция <br>
+"Проблемы теоретической <br>
+и прикладной математики"<br>
+Кунгурка-2005 <br>    </DIV>
+<div align="center">
+<br><span class="style1">31.01.2005</span> - <span class="style1">04.02.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=100&lng=ru'>
+	<img src='pics/1picRCMTDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=100&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir47','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir47','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir47"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Доклады сотрудников <br>
+Научно-исслед. центра <br>
+мультимедиа технологий <br> 
+ИММ УрО РАН <br>
+Кунгурка-2005 <br>    </DIV>
+<div align="center">
+<br><span class="style1">03.02.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=97&lng=ru'>
+	<img src='pics/dirDemidov2005_1.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=97&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir48','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir48','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir48"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Торжественная церемония <br>
+вручения <br>
+Демидовской премии 2004 <br>
+Резиденция губернатора<br>
+Свердловской области<br>    </DIV>
+<div align="center">
+<br><span class="style1">11.02.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=99&lng=ru'>
+	<img src='pics/picAverDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=99&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir49','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir49','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir49"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+В.Л.Авербух <br>
+"Разработка <br>
+специализированных <br>
+систем компьютерной <br>
+визуализации " <br>    </DIV>
+<div align="center">
+<br><span class="style1">14.02.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=98&lng=ru'>
+	<img src='pics/subbotinAI.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=98&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir50','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir50','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir50"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Заседание Ученого <br>
+совета ИММ УрО РАН, <br>
+посвященное 60-летию <br>
+со дня рождения <br>
+академика А.И.Субботина <br>    </DIV>
+<div align="center">
+<br><span class="style1">17.02.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=110&lng=ru'>
+	<img src='pics/picTB_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=110&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir51','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir51','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir51"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Лекции по <br>
+технике безопасности <br>
+для руководителей <br>
+подразделений УрО РАН <br>
+Актовый зал ИФМ <br>    </DIV>
+<div align="center">
+<br><span class="style1">28.02.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=101&lng=ru'>
+	<img src='pics/picIrbitOpDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=101&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir52','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir52','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir52"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Уральский региональный <br>
+центр медицины катастроф <br>
+Врачебный консилиум <br> 
+через спутниковый видеомост<br>
+Екатеринбург - Ирбит <br>    </DIV>
+<div align="center">
+<br><span class="style1">17.03.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=102&lng=ru'>
+	<img src='pics/picBelDir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=102&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir53','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir53','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir53"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Встреча Президиума <br>
+УрО РАН <br>
+с делегацией <br>
+Республики Беларусь <br>
+г.Екатеринбург <br>    </DIV>
+<div align="center">
+<br><span class="style1">25.03.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=103&lng=ru'>
+	<img src='pics/picUran1_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=103&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir54','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir54','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir54"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Общее собрание <br>
+Уральского отделения <br>
+Российской академии наук <br>
+Актовый зал ИФМ <br>
+г.Екатеринбург <br>    </DIV>
+<div align="center">
+<br><span class="style1">15.04.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=104&lng=ru'>
+	<img src='pics/pic_fizika02.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=104&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir55','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir55','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir55"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Публичные лекции <br>
+по физике<br>
+Конференц-зал ФИАН<br>
+<br>
+г.Москва <br>    </DIV>
+<div align="center">
+<br><span class="style1">17.04.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=108&lng=ru'>
+	<img src='pics/sobranie2104_01.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=108&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir56','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir56','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir56"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Заседание ОУС УрО РАН <br>
+по ММИ, посвященное <br>
+медицинской тематике <br>
+Актовый зал ИММ УрО <br>
+г.Екатеринбург<br>    </DIV>
+<div align="center">
+<br><span class="style1">21.04.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=111&lng=ru'>
+	<img src='pics/picBon_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=111&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir57','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir57','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir57"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+"Ярмарка вакансий"<br> 
+молодых специалистов.<br>
+Интернет-видеомост:<br>
+"Бонум" - УГТУ-УПИ -<br>
+Минздрав Свердл. обл.<br>    </DIV>
+<div align="center">
+<br><span class="style1">29.04.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=109&lng=ru'>
+	<img src='pics/picKrasnot_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=109&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir58','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir58','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir58"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+
+Врачебный консилиум <br> 
+по Интернет-видеосвязи: <br>
+Екатеринбург - <br>
+- Краснотурьинск <br>
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">05.05.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=112&lng=ru'>
+	<img src='pics/picBonT_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=112&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir59','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir59','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir59"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Форум "Здоровье нации <br> 
+- основа процвет. России": <br> 
+Интернет-видеомост между <br>
+НПРЦ "Бонум" (г.Ек-бург) <br>
+и ВВЦ (г.Москва) <br>    </DIV>
+<div align="center">
+<br><span class="style1">02.06.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=113&lng=ru'>
+	<img src='pics/picZelMys_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=113&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir60','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir60','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir60"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Международный семинар<br> 
+"Теория управления"<br> 
+и теория обобщенных решений<br>
+уравнений Гамильтона-Якоби"<br>
+"Зеленый Мыс"<br>    </DIV>
+<div align="center">
+<br><span class="style1">22.06.2005</span> - <span class="style1">26.06.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=271&lng=ru'>
+	<img src='pics/picMP_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=271&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir61','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir61','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir61"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Телеконференция-презентация<br>
+нового сборника научных статей<br>
+"Психологическое сопровождение<br>
+и организационно-медицинские<br>
+алгоритмы реабилитации"<br>
+г.Екатеринбург<br>
+УрГУ<br>    </DIV>
+<div align="center">
+<br><span class="style1">16.09.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=274&lng=ru'>
+	<img src='pics/picWirth_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=274&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir62','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir62','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir62"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лекция проф. Никлауса Вирта<br>
+"Анализ инноваций<br>
+в компьютерных науках<br>
+за последние 40 лет"<br>
+г.Екатеринбург<br>
+Актовый зал УрГУ<br>    </DIV>
+<div align="center">
+<br><span class="style1">29.09.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=454&lng=ru'>
+	<img src='picForArch/0010_OUSTELEMED_05/picOusTelMed_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=454&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir63','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir63','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir63"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Объединенный ученый совет УрО РАН по математике, механике и информатике, посвященный развитию телемедицины в УрФО<br>    </DIV>
+<div align="center">
+<br><span class="style1">18.11.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=456&lng=ru'>
+	<img src='picForArch/0012_GurevichIMM_05/picGurImm_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=456&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir64','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir64','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir64"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Доклад руководителя отдела оснований программирования <br> фирмы Microsoft Ю.Ш. Гуревича (США)<br>
+"Легенды и мифы in math and computer science"<br>    </DIV>
+<div align="center">
+<br><span class="style1">22.11.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=455&lng=ru'>
+	<img src='picForArch/0011_StudForum_05/picStudForum_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=455&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir65','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir65','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir65"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Российский студенческий форум.
+Встреча студентов ряда российских вузов с Министром образования и науки РФ А.А.Фурсенко 
+
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">22.11.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=457&lng=ru'>
+	<img src='picForArch/0013_GurevichURGU_05/picGurURGU_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=457&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir66','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir66','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir66"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лекция руководителя отдела оснований программирования 
+фирмы Microsoft Ю.Ш. Гуревича (США)<br>
+"Что такое алгоритм?"<br>
+в УрГУ
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">23.11.2005</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=463&lng=ru'>
+	<img src='picForArch/0018_UPI_LECTURES/picUL_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=463&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir67','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir67','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir67"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+УГТУ-УПИ:<br>
+Лекции<br>    </DIV>
+<div align="center">
+<br><span class="style1">24.01.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=464&lng=ru'>
+	<img src='picForArch/0019_SlobodchikovNI/picNIS_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=464&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir68','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir68','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir68"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Николай<br>
+Иванович<br>
+Слободчиков<br>    </DIV>
+<div align="center">
+<br><span class="style1">25.01.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=467&lng=ru'>
+	<img src='/picForArch/0020_Suhov_06/picsuhov_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=467&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir69','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir69','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir69"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Сухов А.М.<br>
+(Самара, "ИнтернетТВ")<br>
+"Какие требования должны предъявляться к сети для передачи видеопотоков?"<br>    </DIV>
+<div align="center">
+<br><span class="style1">27.01.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=468&lng=ru'>
+	<img src='/picForArch/0022_Kungurka_06/picKung06_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=468&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir70','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir70','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir70"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+37 Молодежная<br> школа-конференция
+<br>
+"Кунгурка-2006"<br>    </DIV>
+<div align="center">
+<br><span class="style1">02.02.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=474&lng=ru'>
+	<img src='/picForArch/0028_Mesyats_70/picMesyats70_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=474&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir71','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir71','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir71"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Празднование юбилея академика Г.А.Месяца<br>    </DIV>
+<div align="center">
+<br><span class="style1">02.03.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=469&lng=ru'>
+	<img src='/picForArch/0023_Lehmann_06/picLeh_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=469&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir72','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir72','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir72"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Phacoemulsification Using<br>
+ NeoSoniX(TM) Technology<br> with the<br> AdanTec(TM) Upgrade
+<br><br>
+Robert Lehmann, MD<br>
+Nacogdoches, TX <br>    </DIV>
+<div align="center">
+<br><span class="style1">03.03.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=471&lng=ru'>
+	<img src='/picForArch/0025_DEMIDOV_05/picdem05_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=471&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir73','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir73','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir73"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Демидовская премия<br>
+2005 года<br>    </DIV>
+<div align="center">
+<br><span class="style1">06.03.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=478&lng=ru'>
+	<img src='/picForArch/0031_ALCON_06/picAlcon_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=478&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir74','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir74','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir74"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Сателлитный симпозиум "ALCON" с демонстрацией "живой" хирургии:
+Инновации в хирургии катаракты
+
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">25.04.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=479&lng=ru'>
+	<img src='/picForArch/0032_ROSSEL_IMM_06/picRossIMM_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=479&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir75','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir75','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir75"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Губернатор Свердловской области Э.Э.Россель в Институте математики и механики УрО РАН<br>    </DIV>
+<div align="center">
+<br><span class="style1">03.05.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=491&lng=ru'>
+	<img src='/picForArch/0043_CONFER_IMM_50/picConf_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=491&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir76','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir76','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir76"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Научная конференция,<br>
+посвященная 50-летию<br>
+СОМИ-ИММ<br>    </DIV>
+<div align="center">
+<br><span class="style1">26.06.2006</span> - <span class="style1">29.06.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=490&lng=ru'>
+	<img src='/picForArch/0042_IMM_50_Congr/picIMM50_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=490&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir77','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir77','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir77"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Торжественное заседание,<br> посвященное пятидесятилетию<br>СОМИ-ИММ<br>    </DIV>
+<div align="center">
+<br><span class="style1">30.06.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=568&lng=ru'>
+	<img src='/picForArch/0048_MathemFestival_06/picKras_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=568&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir78','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir78','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir78"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Фестиваль<br>
+художественной<br>
+математики<br><br>
+г.Москва<br>
+Математический институт имени В.А.Стеклова РАН<br>    </DIV>
+<div align="center">
+<br><span class="style1">25.09.2006</span> - <span class="style1">25.09.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=576&lng=ru'>
+	<img src='/picForArch/0052_TelMedRegion_06/picMedReg_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=576&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir79','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir79','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir79"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Заседание рабочей группы по телемедицине Регионального содружества в области связи стран СНГ<br>    </DIV>
+<div align="center">
+<br><span class="style1">25.10.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=577&lng=ru'>
+	<img src='/picForArch/0053_DINASTIA_SCIENCE_06/picDin_01.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=577&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir80','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir80','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir80"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Дни науки в Екатеринбурге<br>    </DIV>
+<div align="center">
+<br><span class="style1">13.11.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=583&lng=ru'>
+	<img src='/picForArch/0057_Intel_06/picIntel_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=583&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir81','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir81','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir81"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Всемирный форум<br>
+"Интеллектуальная Россия",<br>
+II Ассамблея
+
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">22.11.2006</span> - <span class="style1">24.11.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=588&lng=ru'>
+	<img src='/picForArch/0060_TRETYAKOV_70/picTret70_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=588&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir82','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir82','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir82"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Юбилей ректора Уральского государственного университета<br> им. А.М.Горького<br>
+Владимира Евгеньевича Третьякова<br>    </DIV>
+<div align="center">
+<br><span class="style1">12.12.2006</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=596&lng=ru'>
+	<img src='/picForArch/0067_DemidovReadings_07/picDem06_dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=596&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir83','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir83','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir83"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Демидовская премия 2006<br>    </DIV>
+<div align="center">
+<br><span class="style1">08.02.2007</span> - <span class="style1">09.02.2007</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=601&lng=ru'>
+	<img src='/picForArch/0069_Osipov_70/picOsipov_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=601&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir84','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir84','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir84"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Президент<br> Российской академии наук<br>
+Юрий Осипов<br>    </DIV>
+<div align="center">
+<br><span class="style1">01.03.2007</span></div>
+        </td>
+  </tr>
+</table><!-- directory table -->
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td> <div align="center">
+        <a href='main.php?dir=605&lng=ru'>
+	<img src='/picForArch/0072_Krasovskii_IMM_2007/picNIS_Dir.jpg' alt="" border="0" title="< ?=$con?>"></a>
+	<br> <!-- $con не определена !!!!!!!!!!!!!!!!!! -->
+
+    <a href="main.php?dir=605&lng=ru" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('dir85','','images/open1.gif',1)" onMouseDown="MM_swapImage('dir85','','images/open3.gif',1)">
+      <img src="images/open2.gif" name="dir85"  border="0"  alt="Открыть папку">
+    </a>
+        </div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Вручение стипендии им. Н.И.Слободчикова<br>    </DIV>
+<div align="center">
+<br><span class="style1">26.03.2007</span></div>
+        </td>
+  </tr>
+</table><br><a href="errr.php?dir=6&lng=ru">Сообщить об ошибке
+    </a><br></div>
+<a href="aindex.php?lng=ru&dir=6">Администрировать</a>
+</body>
+</html>

@@ -1,0 +1,280 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Directory of WebTV videos</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<link href="style1.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webcam.imm.uran.ru", "http://webtv.uran.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+<SCRIPT language='JScript' src='rmxfrecv.js'></SCRIPT>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body>
+
+<!-- убрано лишнее для ИТАР-ТАСС -->
+<hr>
+ <h2 align="center">
+        <font color=#2b0079>
+Лыжня России-2006
+<br><br>
+Полигон "Старатель"
+<br>
+Свердловской области</font>
+</h2>
+
+<hr>
+
+<div align="center">
+
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3210&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_01.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 1.8&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3210&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl0.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl0.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 1.8&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3210&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl0.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl0.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 244+64&nbsp;кбит/с, 12&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3210&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl0.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl0.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl0.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1014+128&nbsp;кбит/с, 44&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 1
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">05.02.2006</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3217&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_02.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 6.5&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3217&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl1.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl1.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl1.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 6.5&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3217&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl1.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl1.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl1.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 245+64&nbsp;кбит/с, 42&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3217&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl1.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl1.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl1.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1020+128&nbsp;кбит/с, 159&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 2
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.02.2006</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3218&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_03.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 3.8&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3218&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl2.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl2.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl2.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 3.8&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3218&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl2.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl2.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl2.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 245+64&nbsp;кбит/с, 25&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3218&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl2.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl2.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl2.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1019+128&nbsp;кбит/с, 93&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 3<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.02.2006</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3219&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_04.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 590&nbsp;кб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3219&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl3.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl3.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl3.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 590&nbsp;кб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3219&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl3.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl3.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl3.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 242+64&nbsp;кбит/с, 3.7&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3219&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl3.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl3.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl3.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 996+128&nbsp;кбит/с, 13&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 4<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.02.2006</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3220&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_05.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 4.6&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3220&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl4.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl4.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl4.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 4.6&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3220&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl4.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl4.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl4.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 245+64&nbsp;кбит/с, 30&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3220&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl4.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl4.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl4.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1018+128&nbsp;кбит/с, 112&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 5<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.02.2006</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3221&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_06.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 5.0&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3221&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl5.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl5.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl5.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 5.0&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3221&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl5.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl5.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl5.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 245+64&nbsp;кбит/с, 33&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3221&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl5.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl5.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl5.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1020+128&nbsp;кбит/с, 123&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 6<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.02.2006</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3222&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_07.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 5.2&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3222&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl6.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl6.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl6.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 5.2&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3222&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl6.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl6.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl6.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 245+64&nbsp;кбит/с, 34&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3222&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl6.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl6.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl6.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1021+128&nbsp;кбит/с, 128&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 7<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.02.2006</span></div>
+        </td>
+  </tr>
+</table>
+<table width="188" border="1" class="recitem">
+  <tr>
+    <td>  <div align="center">
+        <a href='rec.php?lng=ru&dir=466&rec=3223&var=1'><img src='picForArch/0021_LyzhRoss_06/picLR_08.jpg' alt="" border="0" title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 3.7&nbsp;Мб"></a><br>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3223&var=1" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl7.1','','/pictures/numbers/d1-1.gif',1)" onMouseDown="MM_swapImage('fl7.1','','/pictures/numbers/d1-3.gif',1)"><img src="/pictures/numbers/d1-2.gif" name="fl7.1"  border="0"  title="180x144&nbsp;пикс, 5.0&nbsp;к/с, 31+16&nbsp;кбит/с, 3.7&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3223&var=2" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl7.2','','/pictures/numbers/d2-1.gif',1)" onMouseDown="MM_swapImage('fl7.2','','/pictures/numbers/d2-3.gif',1)"><img src="/pictures/numbers/d2-2.gif" name="fl7.2"  border="0"  title="360x288&nbsp;пикс, 12.0&nbsp;к/с, 245+64&nbsp;кбит/с, 24&nbsp;Мб"></a>
+
+   <a href="rec.php?lng=ru&dir=466&rec=3223&var=3" onMouseOut="MM_swapImgRestore()" onMouseUp="MM_swapImgRestore()" onMouseOver="MM_swapImage('fl7.3','','/pictures/numbers/d3-1.gif',1)" onMouseDown="MM_swapImage('fl7.3','','/pictures/numbers/d3-3.gif',1)"><img src="/pictures/numbers/d3-2.gif" name="fl7.3"  border="0"  title="360x288&nbsp;пикс, 25.0&nbsp;к/с, 1015+128&nbsp;кбит/с, 91&nbsp;Мб"></a>
+</div></td>
+  </tr>
+  <tr>
+    <td>
+        <DIV class="scroll" id="1">
+Лыжня России-2006<br>
+Полигон "Старатель"<br> 
+Свердловской области
+<br>
+Часть 8
+<br>    </DIV>
+<div align="center">
+<br><span class="style1">04.02.2006</span></div>
+        </td>
+  </tr>
+</table><br><a href="errr.php?dir=466&lng=ru">Сообщить об ошибке
+    </a><br></div>
+<a href="aindex.php?lng=ru&dir=466">Администрировать</a>
+
+
+
+
+</body>
+</html>

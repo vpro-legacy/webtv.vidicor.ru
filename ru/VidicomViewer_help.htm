@@ -1,0 +1,367 @@
+<html>
+
+<head>
+  <META http-equiv="Content-Type" content="text/html; charset=windows-1251">
+  <title>VidicomViewer Help</title>
+
+<script language="JavaScript">//<!--LnCcode0 //Don't edit this line!
+// Edit next lines carefully!
+ PID="00000000";
+ URL="/cgi-bin/log.pl?";
+ ALIAS=new Array("http://webTV.uran.ru", "http://www.vidicor.ru");
+// Don't edit next lines!
+hit=0;
+refer=(document.referrer).toLowerCase();
+for(i=0;i<ALIAS.length;i++){if(refer.substring(0,(ALIAS[i].length))==ALIAS[i].toLowerCase()){refer="internal";break;}}
+document.write("</script><script language='JavaScript' src='"+URL+PID+"&"+escape(refer)+"'></script>");
+//-->
+</script>
+
+</head>
+
+
+<body bgcolor="#a0a0b0" link="#2b0079" alink="#ff0000" vlink="#2b0079">
+
+<script language="Javascript"><!--
+function sw() {
+ var newWindowFeatures="width=600, height=700, InnerWidth=600, InnerHeight=500, dependent=no, scrolling=no, resizable=no, menubar=no, toolbar=no, location=no, directories=no, scrollbars=no, status=no, hotkeys=no";
+ var home=window.open("/rus/troubleshoot/index.php","troubleshoot",newWindowFeatures);
+// history.go(-1);
+}
+//--></SCRIPT>
+
+<table border=1 bgcolor="#c0c0c0" width="85%" align="center">
+ <tr>
+  <td>
+<br>
+   <h1 align="center">
+    <font color="#2b0079">
+    Как смотреть видео?
+    </font>
+   </h1>
+
+Просматривать видео можно только на компьютере под операционной системой MS Windows одним из двух способов:<br>
+
+<ol>
+<li><b>"Window"</b> &ndash; в окне, встроенном в веб-страницу (с помощью ActiveX-элемента).
+Этот способ возможен только если используется <b>MS Internet Explorer</b>,
+в котором разрешены загрузка  и исполнение ActiveX элементов
+(настройка MS Internet Explorer описана <a href="IE_tuning.htm">здесь</a>).<br>
+Необходимый для просмотра ActiveX-элемент загружается автоматически при первом входе на веб-страницу с видео
+&ndash; после утвердительного ответа на вопрос браузера об установке и запуске "Vidicor Viewer Component".
+Если вы уже пропустили этот диалог, обновите страницу в браузере (F5) и ответьте на этот диалог утвердительно.<br>
+ActiveX-элемент можно установить и вручную (без использования механизма установки MS Internet Explorer)
+по ссылке на слове "Window" у радиокнопки
+(<a href="http://download.vidicor.ru/activex_setup.exe">http://download.vidicor.ru/activex_setup.exe</a>)
+<p>
+
+<li><b>"Viewer"</b> &ndash; в отдельном окне специального просмотрщика <b>Vidicor-Watcher</b>.
+При этом тип используемого интернет-браузера и его настройки не имеют значения.
+(более того, в этом случае просмотр возможен вообще без интернет-браузера).<br>
+Необходимое для просмотра приложение Watcher должно быть установлено вручную по ссылке на слове "Viewer" у радиокнопки
+(<a href="http://download.vidicor.ru/watcher_setup.exe">http://download.vidicor.ru/watcher_setup.exe</a>)
+</ol>
+
+Способ просмотра выбирается "радиокнопками" <b>"Window"/"Viewer"</b> под окном для видео на веб-странице.<br>
+Под окном для видео располагаются также кнопки с цифрами для выбора программ или уровня качества вещания.
+
+<br>
+<br>
+<hr>
+<br>
+   <h1 align="center">
+    <font color="#2b0079">
+    Требования к компьютеру, операционной системе и каналу выхода в Интернет
+    </font>
+   </h1>
+
+    <ol>
+    <li>Для просмотра видеозаписей необходим компьютер достаточной производительности
+        (зависит от размера кадра и частоты кадров в секунду).
+    <li>Необходимо, чтобы подключение к Интернет осуществлялось по
+        каналу с пропускной способностью не менее, чем на 20% превышающей
+        суммарный поток для видеозаписи
+        (аудиопоток + видеопоток &ndash; указаны для каждой записи).
+    <li>Пользователям Windows 95 / 95OSR2 необходимо обновить библиотеку WinSock до версии 2.
+        Загрузить ее обновление можно <a href="soft.html">отсюда</a>.
+    <li>Пользователям Windows 95 / 95OSR2 и Windows NT 4
+        необходимо установить драйвера MS Windows DirectX версии не ниже 6.0.
+        Для Windows NT 4 эти драйвера выпускаются
+        только в составе Service Pack 3 и выше.
+        Последние версии этих драйверов можно загрузить <a href="soft.html">отсюда</a>.
+    <li>На сетевом экране (FireWall) должно быть открыто прохождение потоков по порту 80 по протоколам TCP и UDP.
+    </ol>
+  </td>
+ </tr>
+</table>
+
+<!--
+
+<br>
+<br>
+   <h1 align="center">
+    <font color="#2b0079">
+     Возможные проблемы и пути их устранения
+    </font>
+   </h1>
+
+
+<table border=1 bgcolor="#c0c0c0" align="center">
+ <tr>
+  <td>
+    <br>
+    <h2 align="center">
+    <font color="#2b0079">
+&nbsp;&nbsp;Воспользуйтесь <a href="javascript:sw()">системой дружественной помощи</a>!&nbsp;&nbsp;
+    </h2>
+  </td>
+ </tr>
+</table>
+  </br>
+
+<table border=1 bgcolor="#c0c0c0" width="85%" align="center">
+  <tr>
+    <td align="left" valign="middle">
+
+        В случае, если на экране нет изображения или изображение некачественное,
+        можно предпринять следующее:
+<ol>
+<li>Убедитесь, что программное обеспечение Вашего компьютера соответствуют
+    указанным требованиям, в частности:
+    <ul>
+    <li>в случае оконного просмотра ("Window") убедитесь, что используете
+        браузер <b>Microsoft Internet Explorer</b> (в других браузерах нередко не реализована
+        поддержка компонентной COM-технологии, необходимой здесь)
+        <ul>
+        <li><i>используйте Microsoft Internet Explorer для оконного просмотра видео</i>, либо
+        <li><i>просматривайте видео с помощью автономного просмотрщика Vidicor-Watcher</i>
+        </ul>
+    </ul>
+    <ul>
+    <li>в случае автономного просмотра ("Viewer") убедитесь, что приложение "Vidicor-Watcher" установлено
+        <ul>
+        <li><i>для автономного просмотра установите приложение "Vidicor-Watcher"</i>
+        </ul>
+    </ul>
+
+<li>Проверьте, соответствуют ли используемые компьютер и канал связи с Интернет
+    необходимым условиям, в частности:
+    <ul>
+    <li>убедитесь, что компьютер достаточно мощный для просмотра видео
+        <ul>
+        <li><i>см. ниже</i>
+        </ul>
+    <li>убедитесь, что подсоединение к Интернет &ndash; достаточно скоростное
+        <ul>
+        <li><i>см. ниже</i>
+        </ul>
+    </ul>
+
+<li>Если на экране вообще не появляется окно для просмотра видео, то проверьте:
+    <ul>
+    <li>в случае оконного просмотра ("Window"): разрешена ли работа с ActiveX элементами в настройках браузера
+        и по Вашим правам на компьютере
+        <ul>
+        <li><i>войдите с администраторскими правами</i>
+        <li><i>разрешите в настройке браузера закачку и запуск ActiveX элементов</i>
+        </ul>
+    <li>не отвечаете ли Вы "No" при появляении окна (после входа на страницу просмотра)
+        с предложением установить просмотрщик видео
+        <ul>
+        <li><i>отвечайте "Yes" на вопрос об установке ActiveX элемента
+            НПЦ "Vidicor"</i>
+        </ul>
+    <li>в случае автономного просмотра ("Watcher"): установлено ли приложение "Vidicor-Watcher"
+        <ul>
+        <li><i>установите приложение "Vidicor-Watcher"</i>
+        </ul>
+    </ul>
+
+<li>Если окно для просмотра появляется, но видео нет и выдается сообщение о таймауте
+    &ndash; убедитесь, что
+    <ul>
+    <li>компьютер подключен к Интернет
+    <li>не запрещено прохождение видеоданных до Вашего компьютера администратором Вашей сети:
+        (для приема необходимо, чтобы был открыт порт <b><u>80</u></b> по протоколу
+        <b><u>TCP</u></b> <b><u>в обе стороны</u></b>)
+        <ul>
+        <li><i>cвяжитесь с сетевым администратором, чтобы он открыл
+                   порт <b><u>80</u></b> по протоколу
+                  <b><u>TCP</u></b> <b><u>в обе стороны</u></b>)
+                   если порт был закрыт</i>
+        </ul>
+    </ul>
+
+<li>Если окно для просмотра появляется, но видео видно плохо или вообще не видно
+    &ndash; убедитесь, что
+    <ul>
+    <li>    процессор не перегружен (столбик загрузки процессора
+        выдается в окне просмотра, он не должен быть красным)
+        <ul>
+        <li><i>завершите на компьютере другие задачи и процессы</i> и/или
+            <li><i>уменьшите размер кадра</i>, и/или
+        <li><i>замените компьютер на более мощный</i>, и/или
+        <li><i>попробуйте ограничиться только прослушиванием звука, отключив видео</i>
+        </ul>
+    <li>    в канале нет потерь
+        (наличие потерь показывает параметр Lost в окне просмотра, должно быть "Lost=0")
+        <ul>
+        <li><i>измените способ подключения к Интернет (для просмотра видео годится только скоростное соединение)</i>
+        <li><i>выбирайте только видео с низким потоком</i>
+        <li><i>попробуйте ограничиться только прослушиванием звука, отключив видео</i>
+        <li><i>попробуйте сменить ретранслятор (из доступных по списку "кнопок" на страничке, если таковой имеется)
+            (для улучшения качества приема трансляции в локальной сети,
+            уменьшения трафика и исключения дублирующих потоков
+            можно установить ретранслятор из данного файла:
+            <a href="http://www.vidicor.ru/rmxfproxy4_setup.exe">http://www.vidicor.ru/rmxfproxy4_setup.exe</a> и сообщить разработчикам на
+            <a href="mailto:vpro@vidicor.ru">vpro@vidicor.ru</a>
+            адрес установки этого ретранслятора для занесения его в общий список)</i>
+        </ul>
+    </ul>
+</i>
+
+
+        <li>-->Если по предыдущим пунктам все было выполнено, а изображения
+        нет или оно не качественное, то это может говорить о том, что
+        есть неполадки в работе оборудования или программного обеспечения,
+        или сети, и требуется квалифицированная помощь.<br>
+        Если есть желание получить консультацию непосредственно
+        от разработчиков, можно позвонить по телефону (343) 372-0640
+        или отправить письмо по e-mail: <a href="mailto:vpro@vidicor.ru">vpro@vidicor.ru</a></li>
+    </ol>
+
+<hr>
+    <li>Внимание! Программное обеспечение периодически обновляется.
+        Новые программные средства иногда могут вступить в
+        конфликт со старыми версиями, ранее установленными на компьютере,
+        что приведет к сбоям в работе просмотрщика видео.
+        В этом случае старые модули следует удалить с компьютера вручную.
+        Для этого необходимо: настроить Проводник или, скажем, файл-менеджер FAR так,
+        чтобы были видны скрытые каталоги и файлы;
+        выбрать из каталога с операционной системой
+        (обычно -- "C:\WINDOWS" или "C:\WINNT")
+        подкаталог "Downloaded Program Files";
+        удалить из него следующие каталоги и файлы (если они там есть):
+<p>
+        <table border="0" width="70%" align="center" bgcolor="#bbbbbb">
+        <tr>
+        <td align="center" valign="middle">
+                   <b>
+                     ..\CONFLICT.1 (..\CONFLICT.2 и т.п.)<br>
+                     divxdec_.ax<br>
+                     vp6dec_.ax <br>
+                     rmxfvw4.dll<br>
+                     rmxfvw4.inf<br>
+                     dxrtpli3.dll
+                   </b>
+        </td>
+        </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+<hr>
+<table border="0" cellpadding="2" width="100%">
+  <tr>
+    <td width="30%" align="left" valign="top">
+      <font color="#800040" size="3">
+      <a href="/vslRu/index.htm" target="_blank">
+      Научно-исследовательский&nbsp;центр&nbsp;мультимедиа технологий</a>
+      <br><a href="http://www.imm.uran.ru" target="_blank">
+      ИММ</a>&nbsp;<a href="http://www.uran.ru" target="_blank">УрО</a>&nbsp;<a href="http://www.ras.ru" target="_blank">РАН</a>
+      <p>&copy;
+      <a href="http://www.Vidicor.ru" target="_blank">
+      ООО Научно-производственный&nbsp;центр
+      <br>"Vidicor Ltd."
+      </a>
+      </font>
+    </td>
+
+    <td align="center" valign="center">
+
+<script language="JavaScript"><!--
+hit=0;
+  if (hit)
+  {
+    document.write("<CENTER><TABLE><TR><TD><B>Посетитель: <FONT size=4 color=#000080>");
+    document.write(session);
+    document.write("</FONT></B></TD></TR></TABLE></CENTER>");
+  }
+  //-->
+</script>
+
+<p>
+
+<center>
+
+<!-- MyCounter -->
+<SCRIPT language="JavaScript"><!--
+var j=0,d=document,s=screen,h='mycounter.com.ua/'
+//--></SCRIPT>
+<SCRIPT language="JavaScript1.1"><!--
+j=1//--></SCRIPT><SCRIPT language="JavaScript1.2"><!--
+j=2//--></SCRIPT><SCRIPT language="JavaScript1.3"><!--
+j=3//--></SCRIPT><SCRIPT language="JavaScript"><!--
+d.cookie="s=1;path=/";d.write('<A href="http://'+h+
+'stats/?id=3303" target=_blank><IMG src="http://get.'+
+h+'counter.php?id=3303&w='+escape(window.location.href)+
+((typeof(s)=='undefined')?'':'&s='+s.width+'x'+s.height+'x'+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+
+(d.referrer?'&r='+escape(d.referrer):'')+
+(d.cookie?'&c=1':'')+'&j='+j+(navigator.javaEnabled()?'&e=1':'')+
+'" alt="MyCounter - Ваш счётчик" border=0 width=88 height=61></A>')
+//--></SCRIPT>
+<NOSCRIPT><A target="_blank"
+href="http://mycounter.com.ua/stats/?id=3303"><IMG
+src="http://get.mycounter.com.ua/counter.php?id=3303" border=0
+width=88 height=61 alt="MyCounter - Ваш счётчик"></A></NOSCRIPT>
+<!-- End MyCounter code -->
+
+</center>
+
+<!-- SpyLOG f:0211 -->
+<script language="javascript"><!--
+Mu="u5069.17.spylog.com";Md=document;Mnv=navigator;Mp=0;
+Md.cookie="b=b";Mc=0;if(Md.cookie)Mc=1;Mrn=Math.random();
+Mn=(Mnv.appName.substring(0,2)=="Mi")?0:1;Mt=(new Date()).getTimezoneOffset();
+Mz="p="+Mp+"&rn="+Mrn+"&c="+Mc+"&t="+Mt;
+if(self!=top){Mfr=1;}else{Mfr=0;}Msl="1.0";
+//--></script><script language="javascript1.1"><!--
+Mpl="";Msl="1.1";Mj = (Mnv.javaEnabled()?"Y":"N");Mz+='&j='+Mj;
+//--></script><script language="javascript1.2"><!--
+Msl="1.2";Ms=screen;Mpx=(Mn==0)?Ms.colorDepth:Ms.pixelDepth;
+Mz+="&wh="+Ms.width+'x'+Ms.height+"&px="+Mpx;
+//--></script><script language="javascript1.3"><!--
+Msl="1.3";//--></script><script language="javascript"><!--
+My="";My+="<a href='http://"+Mu+"/cnt?cid=506917&f=3&p="+Mp+"&rn="+Mrn+"' target='_blank'>";
+My+="<img src='http://"+Mu+"/cnt?cid=506917&"+Mz+"&sl="+Msl+"&r="+escape(Md.referrer)+"&fr="+Mfr+"&pg="+escape(window.location.href);
+My+="' border=0 width=88 height=31 alt='SpyLOG'>";
+My+="</a>";Md.write(My);//--></script><noscript>
+<a href="http://u5069.17.spylog.com/cnt?cid=506917&f=3&p=0" target="_blank">
+<img src="http://u5069.17.spylog.com/cnt?cid=506917&p=0" alt='SpyLOG' border='0' width=88 height=31 >
+</a></noscript>
+<!-- SpyLOG -->
+</p>
+
+    </td>
+
+    <td width="30%" align="right" valign="top">
+      <b>
+      Email: <a href="mailto:vpro@vidicor.ru">vpro@vidicor.ru</a>
+      <p>Тел.: (343) 372-0640.
+      <br>Факс: (343) 349-1885,
+      </b>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+</script>
+
+</body>
+</html>

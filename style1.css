@@ -1,0 +1,45 @@
+table.recitem {
+	vertical-align: text-top;
+	display: inline;
+	background-color: #B3B4C1;
+	background-image: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	list-style-type: square;
+	list-style-position: inside;
+	border: thick solid #9495a9;
+}
+a:link {
+	color: #000001;
+}
+.sh {
+padding: 5px;
+	
+}
+a:visited {
+	color: #2b0079;
+}
+body {
+	background-color: #9495a9;
+	scrollbar-face-color: #B3B4C1; 
+	scrollbar-shadow-color: #000000;
+	scrollbar-highlight-color: #000000; 
+	scrollbar-3dlight-color: #999999;
+    scrollbar-darkshadow-color: #505050; 
+	scrollbar-track-color: #9495a9;
+	scrollbar-arrow-color: #cccccc;
+}
+a:hover {
+	color: #2b0079;
+}
+a:active {
+	color: #ff0000;
+}
+div.scroll {
+	overflow: auto;
+	height: 100px;
+	width: 188px;
+}
+
